@@ -8,8 +8,8 @@
 | --- | --- | --- |
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link]() |
 | Area of a Square | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link]() |
-| Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link]() |
-| Beginner Series #2 Clock | [Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | [Link](./src/main/java/kyu8/ConvertABooleanToAString.java) |
+| Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/main/java/kyu8/BeginnerReduceButGrow.java) |
+| Beginner Series #2 Clock | [Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | [Link](./src/main/java/kyu8/BeginnerSeries2Clock.java) |
 | Calculate average | [Link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [Link]() |
 | Cat years, Dog years | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link]() |
 | Century From Year | [Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | [Link]() |
@@ -51,7 +51,7 @@
 | Third Angle of a Triangle | [Link](https://www.codewars.com/kata/5a023c426975981341000014) | [Link](./src/main/java/kyu8/ThirdAngleOfATriangle.java) |
 | Training JS #7: if..else and ternary operator | [Link](https://www.codewars.com/kata/57202aefe8d6c514300001fd) | [Link]() |
 | Transportation on vacation | [Link](https://www.codewars.com/kata/568d0dd208ee69389d000016) | [Link]() |
-| Unfinished Loop - Bug Fixing #1 | [Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) | [Link](./src/main/java/kyu8/ConvertABooleanToAString.java) |
+| Unfinished Loop - Bug Fixing #1 | [Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) | [Link](./src/main/java/kyu8/UnfinishedLoopBugFixing1.java) |
 | Vowel remover | [Link](https://www.codewars.com/kata/5547929140907378f9000039) | [Link]() |
 | Will you make it? | [Link](https://www.codewars.com/kata/5861d28f124b35723e00005e) | [Link]() |
 | You Can't Code Under Pressure #1 | [Link](https://www.codewars.com/kata/53ee5429ba190077850011d4) | [Link]() |
