@@ -9,6 +9,7 @@ public class StringEndsWith {
 // solution('abc', 'd') // returns false
 
     public static boolean solution(String str, String ending) {
-        return false;
+
+        return str.endsWith(ending);
     }
 }
