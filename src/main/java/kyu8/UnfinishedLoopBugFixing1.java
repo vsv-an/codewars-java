@@ -2,7 +2,7 @@ package kyu8;
 
 import java.util.*;
 
-public class UnfinishedLoop_BugFixing_1 {
+public class UnfinishedLoopBugFixing1 {
 // Unfinished Loop - Bug Fixing #1
 //
 //Oh no, Timmy's created an infinite loop! Help Timmy find and fix the bug in his unfinished for loop!

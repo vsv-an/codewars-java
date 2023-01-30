@@ -2,11 +2,11 @@ package kyu8;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import org.junit.runners.JUnit4;
+
 import java.util.*;
 
-public class UnfinishedLoop_BugFixing_1_Test {
-    UnfinishedLoop_BugFixing_1 k = new UnfinishedLoop_BugFixing_1();
+public class UnfinishedLoop_BugFixing1Test {
+    UnfinishedLoopBugFixing1 k = new UnfinishedLoopBugFixing1();
 
     @Test
     public void SampleTests() {
