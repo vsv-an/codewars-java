@@ -22,14 +22,14 @@
 | Fake Binary | [Link](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [Link](./src/main/java/kyu8/FakeBinary.java) |
 | Find Maximum and Minimum Values of a List | [Link](https://www.codewars.com/kata/577a98a6ae28071780000989) | [Link](./src/main/java/kyu8/FindMaximumAndMinimumValuesOfAList.java) |
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/java/kyu8/FindTheSmallestIntegerInTheArray.java) |
-| Function 1 - hello world | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Link]() |
-| Function 2 - squaring an argument | [Link](https://www.codewars.com/kata/523b623152af8a30c6000027) | [Link]() |
-| Grasshopper - Debug sayHello | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link]() |
-| Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link]() |
-| How good are you really? | [Link](https://www.codewars.com/kata/5601409514fc93442500010b) | [Link]() |
-| If you can't sleep, just count sheep!! | [Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [Link]() |
-| Invert values | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link]() |
-| Keep Hydrated! | [Link](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [Link](.src/main/java/kyu8/KeepHydrated.java) |
+| Function 1 - hello world | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Link](./src/main/java/kyu8/Function1HelloWorld.java) |
+| Function 2 - squaring an argument | [Link](https://www.codewars.com/kata/523b623152af8a30c6000027) | [Link](./src/main/java/kyu8/Function2SquaringAnArgument.java) |
+| Grasshopper - Debug sayHello | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link](./src/main/java/kyu8/GrasshopperDebuggingSayHelloFunction.java) |
+| Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/java/kyu8/GrasshopperSummation.java) |
+| How good are you really? | [Link](https://www.codewars.com/kata/5601409514fc93442500010b) | [Link](./src/main/java/kyu8/HowGoodAreYouReally.java) |
+| If you can't sleep, just count sheep!! | [Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [Link](./src/main/java/kyu8/IfYouCantSleepJustCountSheep.java) |
+| Invert values | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](./src/main/java/kyu8/InvertValues.java) |
+| Keep Hydrated! | [Link](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [Link](./src/main/java/kyu8/KeepHydrated.java) |
 | MakeUpperCase | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link]() |
 | Multiply | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link]() |
 | Opposite number | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link]() |
