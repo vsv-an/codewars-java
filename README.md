@@ -6,12 +6,12 @@
 
 | Name | Link to Codewars | link to solution |
 | --- | --- | --- |
-| altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link]() |
-| Area of a Square | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link]() |
+| altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/main/java/kyu8/AlternatingCase.java) |
+| Area of a Square | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link](./src/main/java/kyu8/AreaOfASquare.java) |
 | Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/main/java/kyu8/BeginnerReduceButGrow.java) |
 | Beginner Series #2 Clock | [Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | [Link](./src/main/java/kyu8/BeginnerSeries2Clock.java) |
-| Calculate average | [Link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [Link]() |
-| Cat years, Dog years | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link]() |
+| Calculate average | [Link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [Link](./src/main/java/kyu8/CalculateAverage.java) |
+| Cat years, Dog years | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link](./src/main/java/kyu8/CatYearsDogYears.java) |
 | Century From Year | [Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | [Link]() |
 | Convert a Boolean to a String | [Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [Link](./src/main/java/kyu8/ConvertABooleanToAString.java) |
 | Convert a Number to a String! | [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [Link]() |
