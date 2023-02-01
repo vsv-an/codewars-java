@@ -36,11 +36,11 @@
 | Opposites Attract | [Link](https://www.codewars.com/kata/555086d53eac039a2a000083) | [Link](./src/main/java/kyu8/OppositesAttract.java) |
 | Playing with cubes I | [Link](https://www.codewars.com/kata/55c0a79e20be94c91400014b) | [Link](./src/main/java/kyu8/PlayingWithCubesI.java) |
 | Quarter of the year | [Link](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) | [Link](./src/main/java/kyu8/QuarterOfTheYear.java) |
-| Remove exclamation marks | [Link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) | [Link]() |
-| Remove First and Last Character | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Link]() |
-| Remove String Spaces | [Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [Link]() |
-| Return Negative | [Link](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [Link]() |
-| Returning Strings | [Link](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [Link]() |
+| Remove exclamation marks | [Link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) | [Link](./src/main/java/kyu8/RemoveExclamationMarks.java) |
+| Remove First and Last Character | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Link](./src/main/java/kyu8/RemoveFirstAndLastCharacter.java) |
+| Remove String Spaces | [Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [Link](./src/main/java/kyu8/RemoveStringSpaces.java) |
+| Return Negative | [Link](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [Link](./src/main/java/kyu8/ReturnNegative.java) |
+| Returning Strings | [Link](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [Link](./src/main/java/kyu8/ReturningStrings.java) |
 | Reversed Words | [Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [Link](./src/main/java/kyu8/ReversedWords.java) |
 | Simple multiplication | [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | [Link](./src/main/java/kyu8/SimpleMultiplication.java) |
 | Simple validation of a username with regex | [Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Link]() |
