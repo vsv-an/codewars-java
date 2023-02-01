@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/main/java/kyu8/AlternatingCase.java) |
 | Area of a Square | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link](./src/main/java/kyu8/AreaOfASquare.java) |
+| Basic variable assignment | [Link](https://www.codewars.com/kata/50ee6b0bdeab583673000025) | [Link](./src/main/java/kyu8/BasicVariableAssignment.java) |
 | Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/main/java/kyu8/BeginnerReduceButGrow.java) |
 | Beginner Series #2 Clock | [Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | [Link](./src/main/java/kyu8/BeginnerSeries2Clock.java) |
 | Calculate average | [Link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [Link](./src/main/java/kyu8/CalculateAverage.java) |
@@ -60,6 +61,7 @@
 
 | Name | Link to Codewars | link to solution |
 | --- | --- | --- |
+| Changing letters | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294) | [Link](./src/main/java/kyu7/ChangingLetters.java) |
 | Covfefe | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a) | [Link](./src/main/java/kyu7/Covfefe.java) |
 | Debug Sum of Digits of a Number | [Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) | [Link](./src/main/java/kyu7/DebugSumOfDigitsOfANumber.java) |
 | String ends with? | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java) |
