@@ -43,18 +43,18 @@
 | Returning Strings | [Link](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [Link](./src/main/java/kyu8/ReturningStrings.java) |
 | Reversed Words | [Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [Link](./src/main/java/kyu8/ReversedWords.java) |
 | Simple multiplication | [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | [Link](./src/main/java/kyu8/SimpleMultiplication.java) |
-| Simple validation of a username with regex | [Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Link]() |
-| Square(n) Sum | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | [Link]() |
-| String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link]() |
-| Switch it Up! | [Link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | [Link]() |
-| Thinkful - Logic Drills: Traffic light | [Link](https://www.codewars.com/kata/58649884a1659ed6cb000072) | [Link]() |
+| Simple validation of a username with regex | [Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Link](./src/main/java/kyu8/SimpleValidationOfAUsernameWithRegex.java) |
+| Square(n) Sum | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | [Link](./src/main/java/kyu8/SquareNsum.java) |
+| String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/main/java/kyu8/StringRepeat.java) |
+| Switch it Up! | [Link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | [Link](./src/main/java/kyu8/SwitchItUp.java) |
+| Thinkful - Logic Drills: Traffic light | [Link](https://www.codewars.com/kata/58649884a1659ed6cb000072) | [Link](./src/main/java/kyu8/ThinkfulLogicDrillsTrafficLight.java) |
 | Third Angle of a Triangle | [Link](https://www.codewars.com/kata/5a023c426975981341000014) | [Link](./src/main/java/kyu8/ThirdAngleOfATriangle.java) |
-| Training JS #7: if..else and ternary operator | [Link](https://www.codewars.com/kata/57202aefe8d6c514300001fd) | [Link]() |
-| Transportation on vacation | [Link](https://www.codewars.com/kata/568d0dd208ee69389d000016) | [Link]() |
+| Training JS #7: if..else and ternary operator | [Link](https://www.codewars.com/kata/57202aefe8d6c514300001fd) | [Link](./src/main/java/kyu8/TrainingJS7IfElseAndTernaryOperator.java) |
+| Transportation on vacation | [Link](https://www.codewars.com/kata/568d0dd208ee69389d000016) | [Link](./src/main/java/kyu8/TransportationOnVacation.java) |
 | Unfinished Loop - Bug Fixing #1 | [Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) | [Link](./src/main/java/kyu8/UnfinishedLoopBugFixing1.java) |
-| Vowel remover | [Link](https://www.codewars.com/kata/5547929140907378f9000039) | [Link]() |
-| Will you make it? | [Link](https://www.codewars.com/kata/5861d28f124b35723e00005e) | [Link]() |
-| You Can't Code Under Pressure #1 | [Link](https://www.codewars.com/kata/53ee5429ba190077850011d4) | [Link]() |
+| Vowel remover | [Link](https://www.codewars.com/kata/5547929140907378f9000039) | [Link](./src/main/java/kyu8/VowelRemover.java) |
+| Will you make it? | [Link](https://www.codewars.com/kata/5861d28f124b35723e00005e) | [Link](./src/main/java/kyu8/WillYouMakeIt.java) |
+| You Can't Code Under Pressure #1 | [Link](https://www.codewars.com/kata/53ee5429ba190077850011d4) | [Link](./src/main/java/kyu8/YouCantCodeUnderPressure1.java) |
 
 ### 7 kyu
 
