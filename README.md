@@ -60,4 +60,6 @@
 
 | Name | Link to Codewars | link to solution |
 | --- | --- | --- |
+| Covfefe | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a | [Link](./src/main/java/kyu7/Covfefe.java) |
+| Debug Sum of Digits of a Number | [Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba | [Link](./src/main/java/kyu7/DebugSumOfDigitsOfANumber.java) |
 | String ends with? | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java) |
