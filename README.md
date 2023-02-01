@@ -30,11 +30,11 @@
 | If you can't sleep, just count sheep!! | [Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [Link](./src/main/java/kyu8/IfYouCantSleepJustCountSheep.java) |
 | Invert values | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](./src/main/java/kyu8/InvertValues.java) |
 | Keep Hydrated! | [Link](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [Link](./src/main/java/kyu8/KeepHydrated.java) |
-| MakeUpperCase | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link]() |
-| Multiply | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link]() |
-| Opposite number | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link]() |
-| Opposites Attract | [Link](https://www.codewars.com/kata/555086d53eac039a2a000083) | [Link]() |
-| Playing with cubes I | [Link](https://www.codewars.com/kata/55c0a79e20be94c91400014b) | [Link]() |
+| MakeUpperCase | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/main/java/kyu8/MakeUpperCase.java) |
+| Multiply | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/main/java/kyu8/Multiply.java) |
+| Opposite number | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link](./src/main/java/kyu8/OppositeNumber.java) |
+| Opposites Attract | [Link](https://www.codewars.com/kata/555086d53eac039a2a000083) | [Link](./src/main/java/kyu8/OppositesAttract.java) |
+| Playing with cubes I | [Link](https://www.codewars.com/kata/55c0a79e20be94c91400014b) | [Link](./src/main/java/kyu8/PlayingWithCubesI.java) |
 | Quarter of the year | [Link](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) | [Link](./src/main/java/kyu8/QuarterOfTheYear.java) |
 | Remove exclamation marks | [Link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) | [Link]() |
 | Remove First and Last Character | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Link]() |
