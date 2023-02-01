@@ -25,6 +25,8 @@
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/java/kyu8/FindTheSmallestIntegerInTheArray.java) |
 | Function 1 - hello world | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Link](./src/main/java/kyu8/Function1HelloWorld.java) |
 | Function 2 - squaring an argument | [Link](https://www.codewars.com/kata/523b623152af8a30c6000027) | [Link](./src/main/java/kyu8/Function2SquaringAnArgument.java) |
+| Get the mean of an array | [Link](https://www.codewars.com/kata/563e320cee5dddcf77000158) | [Link](./src/main/java/kyu8/GetTheMeanOfAnArray.java) |
+| Grasshopper - Array Mean | [Link](https://www.codewars.com/kata/55d277882e139d0b6000005d) | [Link](./src/main/java/kyu8/GrasshopperArrayMean.java) |
 | Grasshopper - Basic Function Fixer | [Link](https://www.codewars.com/kata/56200d610758762fb0000002) | [Link](./src/main/java/kyu8/GrasshopperBasicFunctionFixer.java) |
 | Grasshopper - Debug sayHello | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link](./src/main/java/kyu8/GrasshopperDebuggingSayHelloFunction.java) |
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/java/kyu8/GrasshopperSummation.java) |
@@ -32,6 +34,7 @@
 | If you can't sleep, just count sheep!! | [Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [Link](./src/main/java/kyu8/IfYouCantSleepJustCountSheep.java) |
 | Invert values | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](./src/main/java/kyu8/InvertValues.java) |
 | Keep Hydrated! | [Link](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [Link](./src/main/java/kyu8/KeepHydrated.java) |
+| Keep up the hoop | [Link](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [Link](./src/main/java/kyu8/KeepUpTheHoop.java) |
 | MakeUpperCase | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/main/java/kyu8/MakeUpperCase.java) |
 | Multiply | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/main/java/kyu8/Multiply.java) |
 | Opposite number | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link](./src/main/java/kyu8/OppositeNumber.java) |
