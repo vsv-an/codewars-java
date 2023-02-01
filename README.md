@@ -25,6 +25,7 @@
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/java/kyu8/FindTheSmallestIntegerInTheArray.java) |
 | Function 1 - hello world | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Link](./src/main/java/kyu8/Function1HelloWorld.java) |
 | Function 2 - squaring an argument | [Link](https://www.codewars.com/kata/523b623152af8a30c6000027) | [Link](./src/main/java/kyu8/Function2SquaringAnArgument.java) |
+| Grasshopper - Basic Function Fixer | [Link](https://www.codewars.com/kata/56200d610758762fb0000002) | [Link](./src/main/java/kyu8/GrasshopperBasicFunctionFixer.java) |
 | Grasshopper - Debug sayHello | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link](./src/main/java/kyu8/GrasshopperDebuggingSayHelloFunction.java) |
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/java/kyu8/GrasshopperSummation.java) |
 | How good are you really? | [Link](https://www.codewars.com/kata/5601409514fc93442500010b) | [Link](./src/main/java/kyu8/HowGoodAreYouReally.java) |
@@ -42,6 +43,7 @@
 | Remove String Spaces | [Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [Link](./src/main/java/kyu8/RemoveStringSpaces.java) |
 | Return Negative | [Link](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [Link](./src/main/java/kyu8/ReturnNegative.java) |
 | Returning Strings | [Link](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [Link](./src/main/java/kyu8/ReturningStrings.java) |
+| Reversed Strings | [Link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [Link](./src/main/java/kyu8/ReversedStrings.java) |
 | Reversed Words | [Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [Link](./src/main/java/kyu8/ReversedWords.java) |
 | Simple multiplication | [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | [Link](./src/main/java/kyu8/SimpleMultiplication.java) |
 | Simple validation of a username with regex | [Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Link](./src/main/java/kyu8/SimpleValidationOfAUsernameWithRegex.java) |
