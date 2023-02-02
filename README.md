@@ -12,6 +12,7 @@
 | Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/main/java/kyu8/BeginnerReduceButGrow.java) |
 | Beginner Series #2 Clock | [Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | [Link](./src/main/java/kyu8/BeginnerSeries2Clock.java) |
 | Calculate average | [Link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [Link](./src/main/java/kyu8/CalculateAverage.java) |
+| Calculate BMI | [Link](https://www.codewars.com/kata/57a429e253ba3381850000fb) | [Link](./src/main/java/kyu8/CalculateBmi.java) |
 | Cat years, Dog years | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link](./src/main/java/kyu8/CatYearsDogYears.java) |
 | Century From Year | [Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | [Link](./src/main/java/kyu8/CenturyFromYear.java) |
 | Convert a Boolean to a String | [Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [Link](./src/main/java/kyu8/ConvertABooleanToAString.java) |
@@ -29,6 +30,7 @@
 | Grasshopper - Array Mean | [Link](https://www.codewars.com/kata/55d277882e139d0b6000005d) | [Link](./src/main/java/kyu8/GrasshopperArrayMean.java) |
 | Grasshopper - Basic Function Fixer | [Link](https://www.codewars.com/kata/56200d610758762fb0000002) | [Link](./src/main/java/kyu8/GrasshopperBasicFunctionFixer.java) |
 | Grasshopper - Debug sayHello | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link](./src/main/java/kyu8/GrasshopperDebuggingSayHelloFunction.java) |
+| Grasshopper - Messi Goals | [Link](https://www.codewars.com/kata/55ca77fa094a2af31f00002a) | [Link](./src/main/java/kyu8/GrasshopperMessiGoals.java) |
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/java/kyu8/GrasshopperSummation.java) |
 | How good are you really? | [Link](https://www.codewars.com/kata/5601409514fc93442500010b) | [Link](./src/main/java/kyu8/HowGoodAreYouReally.java) |
 | If you can't sleep, just count sheep!! | [Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [Link](./src/main/java/kyu8/IfYouCantSleepJustCountSheep.java) |
