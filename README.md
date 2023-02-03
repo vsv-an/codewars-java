@@ -18,10 +18,12 @@
 | Calculate BMI | [Link](https://www.codewars.com/kata/57a429e253ba3381850000fb) | [Link](./src/main/java/kyu8/CalculateBmi.java) |
 | Cat years, Dog years | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link](./src/main/java/kyu8/CatYearsDogYears.java) |
 | Century From Year | [Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | [Link](./src/main/java/kyu8/CenturyFromYear.java) |
+| Classic Hello World | [Link](https://www.codewars.com/kata/57036f007fd72e3b77000023) | [Link](./src/main/java/kyu8/ClassicHelloWorld.java) |
 | Convert a Boolean to a String | [Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [Link](./src/main/java/kyu8/ConvertABooleanToAString.java) |
 | Convert a Number to a String! | [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [Link](./src/main/java/kyu8/ConvertANumberToAString.java) |
 | Convert a String to a Number! | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | [Link](./src/main/java/kyu8/ConvertAStringToANumber.java) |
 | Convert to Binary| [Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [Link](./src/main/java/kyu8/ConvertToBinary.java) |
+| Count of positives / sum of negatives | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Link](./src/main/java/kyu8/CountOfPositivesSumOfNegatives.java) |
 | Count the Monkeys! | [Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) | [Link](./src/main/java/kyu8/CountTheMonkeys.java) |
 | Counting sheep... | [Link](https://www.codewars.com/kata/54edbc7200b811e956000556) | [Link](./src/main/java/kyu8/CountingSheep.java) |
 | Even or Odd | [Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | [Link](./src/main/java/kyu8/EvenOrOdd.java) |
