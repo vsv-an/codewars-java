@@ -23,6 +23,7 @@
 | Convert a Number to a String! | [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [Link](./src/main/java/kyu8/ConvertANumberToAString.java) |
 | Convert a String to a Number! | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | [Link](./src/main/java/kyu8/ConvertAStringToANumber.java) |
 | Convert to Binary| [Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [Link](./src/main/java/kyu8/ConvertToBinary.java) |
+| Count Odd Numbers below n | [Link](https://www.codewars.com/kata/59342039eb450e39970000a6) | [Link](./src/main/java/kyu8/CountOddNumbersBellowN.java) |
 | Count of positives / sum of negatives | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Link](./src/main/java/kyu8/CountOfPositivesSumOfNegatives.java) |
 | Count the Monkeys! | [Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) | [Link](./src/main/java/kyu8/CountTheMonkeys.java) |
 | Counting sheep... | [Link](https://www.codewars.com/kata/54edbc7200b811e956000556) | [Link](./src/main/java/kyu8/CountingSheep.java) |
