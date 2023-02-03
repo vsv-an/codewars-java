@@ -70,6 +70,7 @@
 | Vowel remover | [Link](https://www.codewars.com/kata/5547929140907378f9000039) | [Link](./src/main/java/kyu8/VowelRemover.java) |
 | Will you make it? | [Link](https://www.codewars.com/kata/5861d28f124b35723e00005e) | [Link](./src/main/java/kyu8/WillYouMakeIt.java) |
 | You Can't Code Under Pressure #1 | [Link](https://www.codewars.com/kata/53ee5429ba190077850011d4) | [Link](./src/main/java/kyu8/YouCantCodeUnderPressure1.java) |
+| You only need one - Beginner | [Link](https://www.codewars.com/kata/57cc975ed542d3148f00015b) | [Link](./src/main/java/kyu8/YouOnlyNeedOneBeginner.java) |
 
 ### 7 kyu
 
