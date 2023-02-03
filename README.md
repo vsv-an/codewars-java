@@ -6,6 +6,7 @@
 
 | Name | Link to Codewars | link to solution |
 | --- | --- | --- |
+| Abbreviate a Two Word Name | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/main/java/kyu8/AbbreviateAtwoWordName.java) |
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/main/java/kyu8/AlternatingCase.java) |
 | Area of a Square | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link](./src/main/java/kyu8/AreaOfASquare.java) |
 | Basic variable assignment | [Link](https://www.codewars.com/kata/50ee6b0bdeab583673000025) | [Link](./src/main/java/kyu8/BasicVariableAssignment.java) |
@@ -41,6 +42,7 @@
 | Multiply | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/main/java/kyu8/Multiply.java) |
 | Opposite number | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link](./src/main/java/kyu8/OppositeNumber.java) |
 | Opposites Attract | [Link](https://www.codewars.com/kata/555086d53eac039a2a000083) | [Link](./src/main/java/kyu8/OppositesAttract.java) |
+| Parse nice int from char problem | [Link](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1) | [Link](./src/main/java/kyu8/ParseNiceIntFromCharProblem.java) |
 | Playing with cubes I | [Link](https://www.codewars.com/kata/55c0a79e20be94c91400014b) | [Link](./src/main/java/kyu8/PlayingWithCubesI.java) |
 | Quarter of the year | [Link](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) | [Link](./src/main/java/kyu8/QuarterOfTheYear.java) |
 | Remove exclamation marks | [Link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) | [Link](./src/main/java/kyu8/RemoveExclamationMarks.java) |
