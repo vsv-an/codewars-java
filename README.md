@@ -10,6 +10,7 @@
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/main/java/kyu8/AlternatingCase.java) |
 | Are You Playing Banjo? | [Link](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Link](./src/main/java/kyu8/AreYouPlayingBanjo.java) |
 | Area of a Square | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link](./src/main/java/kyu8/AreaOfASquare.java) |
+| Basic Mathematical Operations | [Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) | [Link](./src/main/java/kyu8/BasicMathematicalOperation.java) |
 | Basic variable assignment | [Link](https://www.codewars.com/kata/50ee6b0bdeab583673000025) | [Link](./src/main/java/kyu8/BasicVariableAssignment.java) |
 | Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/main/java/kyu8/BeginnerReduceButGrow.java) |
 | Beginner Series #2 Clock | [Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | [Link](./src/main/java/kyu8/BeginnerSeries2Clock.java) |
@@ -35,6 +36,7 @@
 | Grasshopper - Debug sayHello | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link](./src/main/java/kyu8/GrasshopperDebuggingSayHelloFunction.java) |
 | Grasshopper - Messi Goals | [Link](https://www.codewars.com/kata/55ca77fa094a2af31f00002a) | [Link](./src/main/java/kyu8/GrasshopperMessiGoals.java) |
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/java/kyu8/GrasshopperSummation.java) |
+| Gravity Flip | [Link](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | [Link](./src/main/java/kyu8/GravityFlip.java) |
 | How good are you really? | [Link](https://www.codewars.com/kata/5601409514fc93442500010b) | [Link](./src/main/java/kyu8/HowGoodAreYouReally.java) |
 | If you can't sleep, just count sheep!! | [Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [Link](./src/main/java/kyu8/IfYouCantSleepJustCountSheep.java) |
 | Invert values | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](./src/main/java/kyu8/InvertValues.java) |
