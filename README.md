@@ -41,6 +41,7 @@
 | Keep up the hoop | [Link](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [Link](./src/main/java/kyu8/KeepUpTheHoop.java) |
 | MakeUpperCase | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/main/java/kyu8/MakeUpperCase.java) |
 | Multiply | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/main/java/kyu8/Multiply.java) |
+| My head is at the wrong end! | [Link](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) | [Link](./src/main/java/kyu8/MyHeadIsAtTheWrongEnd.java) |
 | Opposite number | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link](./src/main/java/kyu8/OppositeNumber.java) |
 | Opposites Attract | [Link](https://www.codewars.com/kata/555086d53eac039a2a000083) | [Link](./src/main/java/kyu8/OppositesAttract.java) |
 | Parse nice int from char problem | [Link](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1) | [Link](./src/main/java/kyu8/ParseNiceIntFromCharProblem.java) |
