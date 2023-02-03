@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | Abbreviate a Two Word Name | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/main/java/kyu8/AbbreviateAtwoWordName.java) |
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/main/java/kyu8/AlternatingCase.java) |
+| Are You Playing Banjo? | [Link](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Link](./src/main/java/kyu8/AreYouPlayingBanjo.java) |
 | Area of a Square | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link](./src/main/java/kyu8/AreaOfASquare.java) |
 | Basic variable assignment | [Link](https://www.codewars.com/kata/50ee6b0bdeab583673000025) | [Link](./src/main/java/kyu8/BasicVariableAssignment.java) |
 | Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/main/java/kyu8/BeginnerReduceButGrow.java) |
