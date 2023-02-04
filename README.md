@@ -14,6 +14,7 @@
 | Basic variable assignment | [Link](https://www.codewars.com/kata/50ee6b0bdeab583673000025) | [Link](./src/main/java/kyu8/BasicVariableAssignment.java)              |
 | Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/main/java/kyu8/BeginnerReduceButGrow.java)                |
 | Beginner Series #2 Clock | [Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | [Link](./src/main/java/kyu8/BeginnerSeries2Clock.java)                 |
+| Beginner Series #4 Cockroach | [Link](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6) | [Link](./src/main/java/kyu8/BeginnerSeries4Cockroach.java)                 |
 | Calculate average | [Link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [Link](./src/main/java/kyu8/CalculateAverage.java)                     |
 | Calculate BMI | [Link](https://www.codewars.com/kata/57a429e253ba3381850000fb) | [Link](./src/main/java/kyu8/CalculateBmi.java)                         |
 | Cat years, Dog years | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link](./src/main/java/kyu8/CatYearsDogYears.java)                     |
@@ -73,6 +74,7 @@
 | Transportation on vacation | [Link](https://www.codewars.com/kata/568d0dd208ee69389d000016) | [Link](./src/main/java/kyu8/TransportationOnVacation.java)             |
 | Unfinished Loop - Bug Fixing #1 | [Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) | [Link](./src/main/java/kyu8/UnfinishedLoopBugFixing1.java)             |
 | Vowel remover | [Link](https://www.codewars.com/kata/5547929140907378f9000039) | [Link](./src/main/java/kyu8/VowelRemover.java)                         |
+| Will there be enough space? | [Link](https://www.codewars.com/kata/5875b200d520904a04000003) | [Link](./src/main/java/kyu8/WillThereBeEnoughSpace.java)                        |
 | Will you make it? | [Link](https://www.codewars.com/kata/5861d28f124b35723e00005e) | [Link](./src/main/java/kyu8/WillYouMakeIt.java)                        |
 | You Can't Code Under Pressure #1 | [Link](https://www.codewars.com/kata/53ee5429ba190077850011d4) | [Link](./src/main/java/kyu8/YouCantCodeUnderPressure1.java)            |
 | You only need one - Beginner | [Link](https://www.codewars.com/kata/57cc975ed542d3148f00015b) | [Link](./src/main/java/kyu8/YouOnlyNeedOneBeginner.java)               |
