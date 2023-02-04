@@ -57,6 +57,7 @@
 | Remove First and Last Character | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Link](./src/main/java/kyu8/RemoveFirstAndLastCharacter.java)          |
 | Remove String Spaces | [Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [Link](./src/main/java/kyu8/RemoveStringSpaces.java)                   |
 | Return Negative | [Link](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [Link](./src/main/java/kyu8/ReturnNegative.java)                       |
+| Return the day  | [Link](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25) | [Link](./src/main/java/kyu8/ReturnTheDay.java)                     |
 | Returning Strings | [Link](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [Link](./src/main/java/kyu8/ReturningStrings.java)                     |
 | Reversed Strings | [Link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [Link](./src/main/java/kyu8/ReversedStrings.java)                      |
 | Reversed Words | [Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [Link](./src/main/java/kyu8/ReversedWords.java)                        |
@@ -64,6 +65,7 @@
 | Simple validation of a username with regex | [Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Link](./src/main/java/kyu8/SimpleValidationOfAUsernameWithRegex.java) |
 | Square(n) Sum | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | [Link](./src/main/java/kyu8/SquareNsum.java)                           |
 | String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/main/java/kyu8/StringRepeat.java)                         |
+| Sum of differences in array | [Link](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e) | [Link](./src/main/java/kyu8/SumOfDifferencesInArray.java)                         |
 | Switch it Up! | [Link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | [Link](./src/main/java/kyu8/SwitchItUp.java)                           |
 | Thinkful - Logic Drills: Traffic light | [Link](https://www.codewars.com/kata/58649884a1659ed6cb000072) | [Link](./src/main/java/kyu8/ThinkfulLogicDrillsTrafficLight.java)      |
 | Third Angle of a Triangle | [Link](https://www.codewars.com/kata/5a023c426975981341000014) | [Link](./src/main/java/kyu8/ThirdAngleOfATriangle.java)                |
