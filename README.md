@@ -29,6 +29,7 @@
 | Count of positives / sum of negatives | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Link](./src/main/java/kyu8/CountOfPositivesSumOfNegatives.java)       |
 | Count the Monkeys! | [Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) | [Link](./src/main/java/kyu8/CountTheMonkeys.java)                      |
 | Counting sheep... | [Link](https://www.codewars.com/kata/54edbc7200b811e956000556) | [Link](./src/main/java/kyu8/CountingSheep.java)                        |
+| DNA to RNA Conversion | [Link](https://www.codewars.com/kata/5556282156230d0e5e000089) | [Link](./src/main/java/kyu8/DnaToRnaConversion.java)                            |
 | Even or Odd | [Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | [Link](./src/main/java/kyu8/EvenOrOdd.java)                            |
 | Fake Binary | [Link](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [Link](./src/main/java/kyu8/FakeBinary.java)                           |
 | Find Maximum and Minimum Values of a List | [Link](https://www.codewars.com/kata/577a98a6ae28071780000989) | [Link](./src/main/java/kyu8/FindMaximumAndMinimumValuesOfAList.java)   |

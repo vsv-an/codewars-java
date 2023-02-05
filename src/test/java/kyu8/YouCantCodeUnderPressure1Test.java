@@ -1,8 +1,6 @@
 package kyu8;
 
 import org.junit.*;
-import org.junit.rules.*;
-import org.junit.runner.Description;
 
 public class YouCantCodeUnderPressure1Test {
     @Test
