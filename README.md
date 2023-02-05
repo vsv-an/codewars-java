@@ -10,6 +10,7 @@
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/main/java/kyu8/AlternatingCase.java)                      |
 | Are You Playing Banjo? | [Link](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Link](./src/main/java/kyu8/AreYouPlayingBanjo.java)                   |
 | Area of a Square | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link](./src/main/java/kyu8/AreaOfASquare.java)                        |
+| Area or Perimeter | [Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | [Link](./src/main/java/kyu8/AreaOrPerimeter.java)                        |
 | Basic Mathematical Operations | [Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) | [Link](./src/main/java/kyu8/BasicMathematicalOperation.java)           |
 | Basic variable assignment | [Link](https://www.codewars.com/kata/50ee6b0bdeab583673000025) | [Link](./src/main/java/kyu8/BasicVariableAssignment.java)              |
 | Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/main/java/kyu8/BeginnerReduceButGrow.java)                |
@@ -47,6 +48,7 @@
 | Keep Hydrated! | [Link](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [Link](./src/main/java/kyu8/KeepHydrated.java)                         |
 | Keep up the hoop | [Link](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [Link](./src/main/java/kyu8/KeepUpTheHoop.java)                        |
 | MakeUpperCase | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/main/java/kyu8/MakeUpperCase.java)                        |
+| Multiple of index | [Link](https://www.codewars.com/kata/5a34b80155519e1a00000009) | [Link](./src/main/java/kyu8/MultipleOfIndex.java)                             |
 | Multiply | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/main/java/kyu8/Multiply.java)                             |
 | My head is at the wrong end! | [Link](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) | [Link](./src/main/java/kyu8/MyHeadIsAtTheWrongEnd.java)                |
 | Opposite number | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link](./src/main/java/kyu8/OppositeNumber.java)                       |
@@ -68,6 +70,7 @@
 | String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/main/java/kyu8/StringRepeat.java)                         |
 | Sum of differences in array | [Link](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e) | [Link](./src/main/java/kyu8/SumOfDifferencesInArray.java)                         |
 | Switch it Up! | [Link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | [Link](./src/main/java/kyu8/SwitchItUp.java)                           |
+| The Feast of Many Beasts | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Link](./src/main/java/kyu8/TheFeastOfManyBeast.java)      |
 | Thinkful - Logic Drills: Traffic light | [Link](https://www.codewars.com/kata/58649884a1659ed6cb000072) | [Link](./src/main/java/kyu8/ThinkfulLogicDrillsTrafficLight.java)      |
 | Third Angle of a Triangle | [Link](https://www.codewars.com/kata/5a023c426975981341000014) | [Link](./src/main/java/kyu8/ThirdAngleOfATriangle.java)                |
 | Training JS #7: if..else and ternary operator | [Link](https://www.codewars.com/kata/57202aefe8d6c514300001fd) | [Link](./src/main/java/kyu8/TrainingJS7IfElseAndTernaryOperator.java)  |
