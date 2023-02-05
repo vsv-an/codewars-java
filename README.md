@@ -43,12 +43,14 @@
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/java/kyu8/GrasshopperSummation.java)                 |
 | Gravity Flip | [Link](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | [Link](./src/main/java/kyu8/GravityFlip.java)                          |
 | How good are you really? | [Link](https://www.codewars.com/kata/5601409514fc93442500010b) | [Link](./src/main/java/kyu8/HowGoodAreYouReally.java)                  |
+| I love you, a little , a lot, passionately ... not at all | [Link](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296) | [Link](./src/main/java/kyu8/IloveYouAlittleAlotPassionatelyNotAtAll.java)         |
 | If you can't sleep, just count sheep!! | [Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [Link](./src/main/java/kyu8/IfYouCantSleepJustCountSheep.java)         |
 | Invert values | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](./src/main/java/kyu8/InvertValues.java)                         |
 | Keep Hydrated! | [Link](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [Link](./src/main/java/kyu8/KeepHydrated.java)                         |
 | Keep up the hoop | [Link](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [Link](./src/main/java/kyu8/KeepUpTheHoop.java)                        |
 | MakeUpperCase | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/main/java/kyu8/MakeUpperCase.java)                        |
 | Multiple of index | [Link](https://www.codewars.com/kata/5a34b80155519e1a00000009) | [Link](./src/main/java/kyu8/MultipleOfIndex.java)                             |
+| Multiplication table for number | [Link](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | [Link](./src/main/java/kyu8/MultiplicationTableForNumber.java)                             |
 | Multiply | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/main/java/kyu8/Multiply.java)                             |
 | My head is at the wrong end! | [Link](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) | [Link](./src/main/java/kyu8/MyHeadIsAtTheWrongEnd.java)                |
 | Opposite number | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link](./src/main/java/kyu8/OppositeNumber.java)                       |
