@@ -33,6 +33,7 @@
 | Even or Odd | [Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | [Link](./src/main/java/kyu8/EvenOrOdd.java)                            |
 | Fake Binary | [Link](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [Link](./src/main/java/kyu8/FakeBinary.java)                           |
 | Find Maximum and Minimum Values of a List | [Link](https://www.codewars.com/kata/577a98a6ae28071780000989) | [Link](./src/main/java/kyu8/FindMaximumAndMinimumValuesOfAList.java)   |
+| Find the first non-consecutive number | [Link](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144) | [Link](./src/main/java/kyu8/FindTheFirstNonConsecutiveNumber.java)     |
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/java/kyu8/FindTheSmallestIntegerInTheArray.java)     |
 | Function 1 - hello world | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Link](./src/main/java/kyu8/Function1HelloWorld.java)                  |
 | Function 2 - squaring an argument | [Link](https://www.codewars.com/kata/523b623152af8a30c6000027) | [Link](./src/main/java/kyu8/Function2SquaringAnArgument.java)          |
