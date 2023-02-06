@@ -43,6 +43,7 @@
 | Fake Binary | [Link](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [Link](./src/main/java/kyu8/FakeBinary.java)                          |
 | Find Maximum and Minimum Values of a List | [Link](https://www.codewars.com/kata/577a98a6ae28071780000989) | [Link](./src/main/java/kyu8/FindMaximumAndMinimumValuesOfAList.java)  |
 | Find Nearest square number | [Link](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba) | [Link](./src/main/java/kyu8/FindNearestSquareNumber.java)  |
+| Find numbers which are divisible by given number | [Link](https://www.codewars.com/kata/55edaba99da3a9c84000003b) | [Link](./src/main/java/kyu8/FindNumberWhichAreDivisibleByGivenNumber.java)  |
 | Find the first non-consecutive number | [Link](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144) | [Link](./src/main/java/kyu8/FindTheFirstNonConsecutiveNumber.java)    |
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/java/kyu8/FindTheSmallestIntegerInTheArray.java)    |
 | Function 1 - hello world | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Link](./src/main/java/kyu8/Function1HelloWorld.java)                 |
@@ -79,6 +80,7 @@
 | Returning Strings | [Link](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [Link](./src/main/java/kyu8/ReturningStrings.java)                    |
 | Reversed Strings | [Link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [Link](./src/main/java/kyu8/ReversedStrings.java)                     |
 | Reversed Words | [Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [Link](./src/main/java/kyu8/ReversedWords.java)                       |
+| Sentence Smash | [Link](https://www.codewars.com/kata/53dc23c68a0c93699800041d) | [Link](./src/main/java/kyu8/SentenceSmash.java)                       |
 | Simple multiplication | [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | [Link](./src/main/java/kyu8/SimpleMultiplication.java)                |
 | Simple validation of a username with regex | [Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Link](./src/main/java/kyu8/SimpleValidationOfAUsernameWithRegex.java) |
 | Square(n) Sum | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | [Link](./src/main/java/kyu8/SquareNsum.java)                          |
