@@ -7,6 +7,7 @@
 | Name | Link to Codewars | Link to solution                                                       |
 | --- | --- |------------------------------------------------------------------------|
 | Abbreviate a Two Word Name | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/main/java/kyu8/AbbreviateAtwoWordName.java)               |
+| All Star Code Challenge #18 | [Link](https://www.codewars.com/kata/5865918c6b569962950002a1) | [Link](./src/main/java/kyu8/AllStarCodeChallenge18.java)                      |
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/main/java/kyu8/AlternatingCase.java)                      |
 | Are You Playing Banjo? | [Link](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Link](./src/main/java/kyu8/AreYouPlayingBanjo.java)                   |
 | Area of a Square | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link](./src/main/java/kyu8/AreaOfASquare.java)                        |
