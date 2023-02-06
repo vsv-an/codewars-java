@@ -62,6 +62,7 @@
 | Multiplication table for number | [Link](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | [Link](./src/main/java/kyu8/MultiplicationTableForNumber.java)                           |
 | Multiply | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/main/java/kyu8/Multiply.java)                            |
 | My head is at the wrong end! | [Link](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) | [Link](./src/main/java/kyu8/MyHeadIsAtTheWrongEnd.java)               |
+| N-th Power | [Link](https://www.codewars.com/kata/57d814e4950d8489720008db) | [Link](./src/main/java/kyu8/NthPower.java)                      |
 | Opposite number | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link](./src/main/java/kyu8/OppositeNumber.java)                      |
 | Opposites Attract | [Link](https://www.codewars.com/kata/555086d53eac039a2a000083) | [Link](./src/main/java/kyu8/OppositesAttract.java)                    |
 | Parse nice int from char problem | [Link](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1) | [Link](./src/main/java/kyu8/ParseNiceIntFromCharProblem.java)         |
