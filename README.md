@@ -82,6 +82,7 @@
 | The Wide-Mouthed frog! | [Link](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89) | [Link](./src/main/java/kyu8/TheWideMouthedFrog.java)      |
 | Thinkful - Logic Drills: Traffic light | [Link](https://www.codewars.com/kata/58649884a1659ed6cb000072) | [Link](./src/main/java/kyu8/ThinkfulLogicDrillsTrafficLight.java)     |
 | Third Angle of a Triangle | [Link](https://www.codewars.com/kata/5a023c426975981341000014) | [Link](./src/main/java/kyu8/ThirdAngleOfATriangle.java)               |
+| To square(root) or not to square(root) | [Link](https://www.codewars.com/kata/57f6ad55cca6e045d2000627) | [Link](./src/main/java/kyu8/ToSquareRootOrNotToSquareRoot.java)               |
 | Training JS #7: if..else and ternary operator | [Link](https://www.codewars.com/kata/57202aefe8d6c514300001fd) | [Link](./src/main/java/kyu8/TrainingJS7IfElseAndTernaryOperator.java) |
 | Transportation on vacation | [Link](https://www.codewars.com/kata/568d0dd208ee69389d000016) | [Link](./src/main/java/kyu8/TransportationOnVacation.java)            |
 | Unfinished Loop - Bug Fixing #1 | [Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) | [Link](./src/main/java/kyu8/UnfinishedLoopBugFixing1.java)            |
