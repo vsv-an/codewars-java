@@ -114,3 +114,4 @@
 | Largest Elements | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256) | [Link](./src/main/java/kyu7/LargestElements.java)            |
 | Shortest Word | [Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | [Link](./src/main/java/kyu7/ShortestWord.java)            |
 | String ends with? | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java)            |
+| Vowel Count | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Link](./src/main/java/kyu7/VowelCount.java)            |
