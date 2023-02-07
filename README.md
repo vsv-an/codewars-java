@@ -110,6 +110,7 @@
 | Count consonants | [Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106) | [Link](./src/main/java/kyu7/CountConsonants.java)           |
 | Covfefe | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a) | [Link](./src/main/java/kyu7/Covfefe.java)                   |
 | Debug Sum of Digits of a Number | [Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) | [Link](./src/main/java/kyu7/DebugSumOfDigitsOfANumber.java) |
+| Highest and Lowest | [Link](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [Link](./src/main/java/kyu7/HighestAndLowest.java)            |
 | Largest Elements | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256) | [Link](./src/main/java/kyu7/LargestElements.java)            |
 | Shortest Word | [Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | [Link](./src/main/java/kyu7/ShortestWord.java)            |
 | String ends with? | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java)            |
