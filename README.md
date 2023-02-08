@@ -56,6 +56,7 @@
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/java/kyu8/GrasshopperSummation.java)                |
 | Grasshopper - Terminal game move function | [Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | [Link](./src/main/java/kyu8/GrasshopperTerminalGameMoveFunction.java)                |
 | Gravity Flip | [Link](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | [Link](./src/main/java/kyu8/GravityFlip.java)                         |
+| Holiday VIII - Duty Free | [Link](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5) | [Link](./src/main/java/kyu8/HolidayVIIIDutyFree.java)                         |
 | How good are you really? | [Link](https://www.codewars.com/kata/5601409514fc93442500010b) | [Link](./src/main/java/kyu8/HowGoodAreYouReally.java)                 |
 | I love you, a little , a lot, passionately ... not at all | [Link](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296) | [Link](./src/main/java/kyu8/IloveYouAlittleAlotPassionatelyNotAtAll.java)       |
 | If you can't sleep, just count sheep!! | [Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [Link](./src/main/java/kyu8/IfYouCantSleepJustCountSheep.java)        |
