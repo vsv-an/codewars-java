@@ -54,6 +54,7 @@
 | Grasshopper - Debug sayHello | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link](./src/main/java/kyu8/GrasshopperDebuggingSayHelloFunction.java) |
 | Grasshopper - Messi Goals | [Link](https://www.codewars.com/kata/55ca77fa094a2af31f00002a) | [Link](./src/main/java/kyu8/GrasshopperMessiGoals.java)               |
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/java/kyu8/GrasshopperSummation.java)                |
+| Grasshopper - Terminal game move function | [Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | [Link](./src/main/java/kyu8/GrasshopperTerminalGameMoveFunction.java)                |
 | Gravity Flip | [Link](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | [Link](./src/main/java/kyu8/GravityFlip.java)                         |
 | How good are you really? | [Link](https://www.codewars.com/kata/5601409514fc93442500010b) | [Link](./src/main/java/kyu8/HowGoodAreYouReally.java)                 |
 | I love you, a little , a lot, passionately ... not at all | [Link](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296) | [Link](./src/main/java/kyu8/IloveYouAlittleAlotPassionatelyNotAtAll.java)       |
