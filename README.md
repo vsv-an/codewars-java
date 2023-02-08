@@ -83,6 +83,7 @@
 | Return Negative | [Link](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [Link](./src/main/java/kyu8/ReturnNegative.java)                      |
 | Return the day  | [Link](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25) | [Link](./src/main/java/kyu8/ReturnTheDay.java)                    |
 | Returning Strings | [Link](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [Link](./src/main/java/kyu8/ReturningStrings.java)                    |
+| Reversed sequence | [Link](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) | [Link](./src/main/java/kyu8/ReversedSequence.java)                     |
 | Reversed Strings | [Link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [Link](./src/main/java/kyu8/ReversedStrings.java)                     |
 | Reversed Words | [Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [Link](./src/main/java/kyu8/ReversedWords.java)                       |
 | Sentence Smash | [Link](https://www.codewars.com/kata/53dc23c68a0c93699800041d) | [Link](./src/main/java/kyu8/SentenceSmash.java)                       |
