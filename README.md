@@ -60,6 +60,7 @@
 | If you can't sleep, just count sheep!! | [Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [Link](./src/main/java/kyu8/IfYouCantSleepJustCountSheep.java)        |
 | Invert values | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](./src/main/java/kyu8/InvertValues.java)                        |
 | Is it even? | [Link](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) | [Link](./src/main/java/kyu8/IsItEven.java)                        |
+| Jenny's secret message | [Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390) | [Link](./src/main/java/kyu8/JennysSecretMessage.java)                        |
 | Keep Hydrated! | [Link](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [Link](./src/main/java/kyu8/KeepHydrated.java)                        |
 | Keep up the hoop | [Link](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [Link](./src/main/java/kyu8/KeepUpTheHoop.java)                       |
 | MakeUpperCase | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/main/java/kyu8/MakeUpperCase.java)                       |
