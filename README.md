@@ -104,6 +104,7 @@
 | Twice as old | [Link](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [Link](./src/main/java/kyu8/TwiceAsOld.java)            |
 | Unfinished Loop - Bug Fixing #1 | [Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) | [Link](./src/main/java/kyu8/UnfinishedLoopBugFixing1.java)            |
 | Vowel remover | [Link](https://www.codewars.com/kata/5547929140907378f9000039) | [Link](./src/main/java/kyu8/VowelRemover.java)                        |
+| What is between? | [Link](https://www.codewars.com/kata/55ecd718f46fba02e5000029) | [Link](./src/main/java/kyu8/WhatIsBetween.java)                      |
 | Will there be enough space? | [Link](https://www.codewars.com/kata/5875b200d520904a04000003) | [Link](./src/main/java/kyu8/WillThereBeEnoughSpace.java)                      |
 | Will you make it? | [Link](https://www.codewars.com/kata/5861d28f124b35723e00005e) | [Link](./src/main/java/kyu8/WillYouMakeIt.java)                       |
 | You Can't Code Under Pressure #1 | [Link](https://www.codewars.com/kata/53ee5429ba190077850011d4) | [Link](./src/main/java/kyu8/YouCantCodeUnderPressure1.java)           |
