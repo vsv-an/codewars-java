@@ -87,6 +87,7 @@
 | Square(n) Sum | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | [Link](./src/main/java/kyu8/SquareNsum.java)                          |
 | String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/main/java/kyu8/StringRepeat.java)                        |
 | Sum of differences in array | [Link](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e) | [Link](./src/main/java/kyu8/SumOfDifferencesInArray.java)                       |
+| Sum of positive | [Link](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [Link](./src/main/java/kyu8/SumOfPositive.java)                          |
 | Switch it Up! | [Link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | [Link](./src/main/java/kyu8/SwitchItUp.java)                          |
 | The Feast of Many Beasts | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Link](./src/main/java/kyu8/TheFeastOfManyBeast.java)     |
 | The Wide-Mouthed frog! | [Link](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89) | [Link](./src/main/java/kyu8/TheWideMouthedFrog.java)      |
