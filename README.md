@@ -21,6 +21,7 @@
 | Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/main/java/kyu8/BeginnerReduceButGrow.java)               |
 | Beginner Series #2 Clock | [Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | [Link](./src/main/java/kyu8/BeginnerSeries2Clock.java)                |
 | Beginner Series #4 Cockroach | [Link](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6) | [Link](./src/main/java/kyu8/BeginnerSeries4Cockroach.java)               |
+| Bin to Decimal | [Link](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334) | [Link](./src/main/java/kyu8/BinToDecimal.java)                    |
 | Calculate average | [Link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [Link](./src/main/java/kyu8/CalculateAverage.java)                    |
 | Calculate BMI | [Link](https://www.codewars.com/kata/57a429e253ba3381850000fb) | [Link](./src/main/java/kyu8/CalculateBmi.java)                        |
 | Cat years, Dog years | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link](./src/main/java/kyu8/CatYearsDogYears.java)                    |
