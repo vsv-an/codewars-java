@@ -94,6 +94,7 @@
 | To square(root) or not to square(root) | [Link](https://www.codewars.com/kata/57f6ad55cca6e045d2000627) | [Link](./src/main/java/kyu8/ToSquareRootOrNotToSquareRoot.java)               |
 | Training JS #7: if..else and ternary operator | [Link](https://www.codewars.com/kata/57202aefe8d6c514300001fd) | [Link](./src/main/java/kyu8/TrainingJS7IfElseAndTernaryOperator.java) |
 | Transportation on vacation | [Link](https://www.codewars.com/kata/568d0dd208ee69389d000016) | [Link](./src/main/java/kyu8/TransportationOnVacation.java)            |
+| Twice as old | [Link](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [Link](./src/main/java/kyu8/TwiceAsOld.java)            |
 | Unfinished Loop - Bug Fixing #1 | [Link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) | [Link](./src/main/java/kyu8/UnfinishedLoopBugFixing1.java)            |
 | Vowel remover | [Link](https://www.codewars.com/kata/5547929140907378f9000039) | [Link](./src/main/java/kyu8/VowelRemover.java)                        |
 | Will there be enough space? | [Link](https://www.codewars.com/kata/5875b200d520904a04000003) | [Link](./src/main/java/kyu8/WillThereBeEnoughSpace.java)                      |
