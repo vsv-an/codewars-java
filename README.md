@@ -49,6 +49,7 @@
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/java/kyu8/FindTheSmallestIntegerInTheArray.java)    |
 | Function 1 - hello world | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Link](./src/main/java/kyu8/Function1HelloWorld.java)                 |
 | Function 2 - squaring an argument | [Link](https://www.codewars.com/kata/523b623152af8a30c6000027) | [Link](./src/main/java/kyu8/Function2SquaringAnArgument.java)         |
+| Get Nth Even Number | [Link](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed) | [Link](./src/main/java/kyu8/GetNthEvenNumber.java)                 |
 | Get the mean of an array | [Link](https://www.codewars.com/kata/563e320cee5dddcf77000158) | [Link](./src/main/java/kyu8/GetTheMeanOfAnArray.java)                 |
 | Grasshopper - Array Mean | [Link](https://www.codewars.com/kata/55d277882e139d0b6000005d) | [Link](./src/main/java/kyu8/GrasshopperArrayMean.java)                |
 | Grasshopper - Basic Function Fixer | [Link](https://www.codewars.com/kata/56200d610758762fb0000002) | [Link](./src/main/java/kyu8/GrasshopperBasicFunctionFixer.java)       |
@@ -57,6 +58,7 @@
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/java/kyu8/GrasshopperSummation.java)                |
 | Grasshopper - Terminal game move function | [Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | [Link](./src/main/java/kyu8/GrasshopperTerminalGameMoveFunction.java)                |
 | Gravity Flip | [Link](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | [Link](./src/main/java/kyu8/GravityFlip.java)                         |
+| Hex to Decimal | [Link](https://www.codewars.com/kata/57a4d500e298a7952100035d) | [Link](./src/main/java/kyu8/HexToDecimal.java)                         |
 | Holiday VIII - Duty Free | [Link](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5) | [Link](./src/main/java/kyu8/HolidayVIIIDutyFree.java)                         |
 | How good are you really? | [Link](https://www.codewars.com/kata/5601409514fc93442500010b) | [Link](./src/main/java/kyu8/HowGoodAreYouReally.java)                 |
 | I love you, a little , a lot, passionately ... not at all | [Link](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296) | [Link](./src/main/java/kyu8/IloveYouAlittleAlotPassionatelyNotAtAll.java)       |
@@ -93,6 +95,7 @@
 | String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/main/java/kyu8/StringRepeat.java)                        |
 | Sum of differences in array | [Link](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e) | [Link](./src/main/java/kyu8/SumOfDifferencesInArray.java)                       |
 | Sum of positive | [Link](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [Link](./src/main/java/kyu8/SumOfPositive.java)                          |
+| Sum without highest and lowest number | [Link](https://www.codewars.com/kata/576b93db1129fcf2200001e6) | [Link](./src/main/java/kyu8/SumWithoutHighestAndLowestNumber.java)                          |
 | Switch it Up! | [Link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | [Link](./src/main/java/kyu8/SwitchItUp.java)                          |
 | The Feast of Many Beasts | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Link](./src/main/java/kyu8/TheFeastOfManyBeast.java)     |
 | The Wide-Mouthed frog! | [Link](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89) | [Link](./src/main/java/kyu8/TheWideMouthedFrog.java)      |
