@@ -93,7 +93,9 @@
 | Simple validation of a username with regex | [Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Link](./src/main/java/kyu8/SimpleValidationOfAUsernameWithRegex.java) |
 | Square(n) Sum | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | [Link](./src/main/java/kyu8/SquareNsum.java)                          |
 | String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/main/java/kyu8/StringRepeat.java)                        |
+| Stringy Strings | [Link](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | [Link](./src/main/java/kyu8/StringyStrings.java)                        |
 | Sum of differences in array | [Link](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e) | [Link](./src/main/java/kyu8/SumOfDifferencesInArray.java)                       |
+| Sum of Multiples | [Link](https://www.codewars.com/kata/57241e0f440cd279b5000829) | [Link](./src/main/java/kyu8/SumOfMultiples.java)                          |
 | Sum of positive | [Link](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [Link](./src/main/java/kyu8/SumOfPositive.java)                          |
 | Sum without highest and lowest number | [Link](https://www.codewars.com/kata/576b93db1129fcf2200001e6) | [Link](./src/main/java/kyu8/SumWithoutHighestAndLowestNumber.java)                          |
 | Switch it Up! | [Link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | [Link](./src/main/java/kyu8/SwitchItUp.java)                          |
