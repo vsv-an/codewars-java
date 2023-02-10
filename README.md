@@ -91,6 +91,7 @@
 | Sentence Smash | [Link](https://www.codewars.com/kata/53dc23c68a0c93699800041d) | [Link](./src/main/java/kyu8/SentenceSmash.java)                       |
 | Simple multiplication | [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | [Link](./src/main/java/kyu8/SimpleMultiplication.java)                |
 | Simple validation of a username with regex | [Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Link](./src/main/java/kyu8/SimpleValidationOfAUsernameWithRegex.java) |
+| Sort My Textbooks | [Link](https://www.codewars.com/kata/5a07e5b7ffe75fd049000051) | [Link](./src/main/java/kyu8/SortMyTextbooks.java) |
 | Square(n) Sum | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | [Link](./src/main/java/kyu8/SquareNsum.java)                          |
 | String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/main/java/kyu8/StringRepeat.java)                        |
 | Stringy Strings | [Link](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | [Link](./src/main/java/kyu8/StringyStrings.java)                        |
