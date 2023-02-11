@@ -88,6 +88,7 @@
 | Reversed sequence | [Link](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) | [Link](./src/main/java/kyu8/ReversedSequence.java)                     |
 | Reversed Strings | [Link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [Link](./src/main/java/kyu8/ReversedStrings.java)                     |
 | Reversed Words | [Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [Link](./src/main/java/kyu8/ReversedWords.java)                       |
+| Rock Paper Scissors! | [Link](https://www.codewars.com/kata/5672a98bdbdd995fad00000f) | [Link](./src/main/java/kyu8/RockPaperScissors.java)                       |
 | Sentence Smash | [Link](https://www.codewars.com/kata/53dc23c68a0c93699800041d) | [Link](./src/main/java/kyu8/SentenceSmash.java)                       |
 | Simple multiplication | [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | [Link](./src/main/java/kyu8/SimpleMultiplication.java)                |
 | Simple validation of a username with regex | [Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Link](./src/main/java/kyu8/SimpleValidationOfAUsernameWithRegex.java) |
