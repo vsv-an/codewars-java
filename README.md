@@ -130,6 +130,7 @@
 | Debug Sum of Digits of a Number | [Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) | [Link](./src/main/java/kyu7/DebugSumOfDigitsOfANumber.java) |
 | Highest and Lowest | [Link](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [Link](./src/main/java/kyu7/HighestAndLowest.java)            |
 | Largest Elements | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256) | [Link](./src/main/java/kyu7/LargestElements.java)            |
+| Regexp Basics - is it a letter? | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b) | [Link](./src/main/java/kyu7/RegexpBasicIsItAletter.java)            |
 | Regexp Basics - is it a vowel? | [Link](https://www.codewars.com/kata/567bed99ee3451292c000025) | [Link](./src/main/java/kyu7/RegexpBasicIsItAvowel.java)            |
 | Shortest Word | [Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | [Link](./src/main/java/kyu7/ShortestWord.java)            |
 | String ends with? | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java)            |
