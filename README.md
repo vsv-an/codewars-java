@@ -33,6 +33,7 @@
 | Convert boolean values to strings 'Yes' or 'No'.| [Link](https://www.codewars.com/kata/53369039d7ab3ac506000467) | [Link](./src/main/java/kyu8/ConvertBooleanValuesToStringYesOrNo.java)                    |
 | Convert number to reversed array of digits| [Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | [Link](./src/main/java/kyu8/ConvertNumberToReversedArrayOfDigits.java)                    |
 | Convert to Binary| [Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [Link](./src/main/java/kyu8/ConvertToBinary.java)                    |
+| Correct the mistakes of the character recognition software | [Link](https://www.codewars.com/kata/577bd026df78c19bca0002c0) | [Link](./src/main/java/kyu8/CorrectTheMistakesOfTheCharacterRecognitionSoftware.java)              |
 | Count by X | [Link](https://www.codewars.com/kata/5513795bd3fafb56c200049e) | [Link](./src/main/java/kyu8/CountByX.java)              |
 | Count Odd Numbers below n | [Link](https://www.codewars.com/kata/59342039eb450e39970000a6) | [Link](./src/main/java/kyu8/CountOddNumbersBellowN.java)             |
 | Count of positives / sum of negatives | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Link](./src/main/java/kyu8/CountOfPositivesSumOfNegatives.java)     |
