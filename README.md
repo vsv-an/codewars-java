@@ -9,6 +9,7 @@
 
 | Name | Link to Codewars | Link to solution                                                     |
 | --- | --- |----------------------------------------------------------------------|
+| A wolf in sheep's clothing | [Link](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15) | [Link](./src/main/java/kyu8/AwolfInSheepsClothing.java)             |
 | Abbreviate a Two Word Name | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/main/java/kyu8/AbbreviateAtwoWordName.java)             |
 | All Star Code Challenge #18 | [Link](https://www.codewars.com/kata/5865918c6b569962950002a1) | [Link](./src/main/java/kyu8/AllStarCodeChallenge18.java)                   |
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/main/java/kyu8/AlternatingCase.java)                    |
