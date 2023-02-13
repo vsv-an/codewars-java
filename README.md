@@ -135,6 +135,7 @@
 | Regexp Basics - is it a letter? | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b) | [Link](./src/main/java/kyu7/RegexpBasicIsItAletter.java)            |
 | Regexp Basics - is it a vowel? | [Link](https://www.codewars.com/kata/567bed99ee3451292c000025) | [Link](./src/main/java/kyu7/RegexpBasicIsItAvowel.java)            |
 | Shortest Word | [Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | [Link](./src/main/java/kyu7/ShortestWord.java)            |
+| Simple string characters | [Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058) | [Link](./src/main/java/kyu7/SimpleStringCharacters.java)            |
 | String ends with? | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java)            |
 | Vowel Count | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Link](./src/main/java/kyu7/VowelCount.java)            |
 
