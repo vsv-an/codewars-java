@@ -130,6 +130,7 @@
 | Count consonants | [Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106) | [Link](./src/main/java/kyu7/CountConsonants.java)           |
 | Covfefe | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a) | [Link](./src/main/java/kyu7/Covfefe.java)                   |
 | Debug Sum of Digits of a Number | [Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) | [Link](./src/main/java/kyu7/DebugSumOfDigitsOfANumber.java) |
+| Digit*Digit | [Link](https://www.codewars.com/kata/546e2562b03326a88e000020) | [Link](./src/main/java/kyu7/DigitDigit.java) |
 | Disemvowel Trolls | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e) | [Link](./src/main/java/kyu7/DisemvowelTrolls.java)            |
 | Find the stray number | [Link](https://www.codewars.com/kata/57f609022f4d534f05000024) | [Link](./src/main/java/kyu7/FindTheStrayNumber.java)            |
 | Highest and Lowest | [Link](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [Link](./src/main/java/kyu7/HighestAndLowest.java)            |
