@@ -146,4 +146,5 @@
 | Simple string characters | [Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058) | [Link](./src/main/java/kyu7/SimpleStringCharacters.java)            |
 | String ends with? | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java)            |
 | Vowel Count | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Link](./src/main/java/kyu7/VowelCount.java)            |
+| You're a square! | [Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | [Link](./src/main/java/kyu7/YoureASquare.java)            |
 
