@@ -136,6 +136,7 @@
 | Find the stray number | [Link](https://www.codewars.com/kata/57f609022f4d534f05000024) | [Link](./src/main/java/kyu7/FindTheStrayNumber.java)            |
 | Highest and Lowest | [Link](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [Link](./src/main/java/kyu7/HighestAndLowest.java)            |
 | How many arguments | [Link](https://www.codewars.com/kata/5c44b0b200ce187106452139) | [Link](./src/main/java/kyu7/HowManyArguments.java)            |
+| Incrementer | [Link](https://www.codewars.com/kata/590e03aef55cab099a0002e8) | [Link](./src/main/java/kyu7/Incrementer.java)            |
 | Isograms | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Link](./src/main/java/kyu7/Isograms.java)            |
 | Jaden Casing Strings | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | [Link](./src/main/java/kyu7/JadenCasingStrings.java)            |
 | Largest Elements | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256) | [Link](./src/main/java/kyu7/LargestElements.java)            |

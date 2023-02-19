@@ -26,12 +26,11 @@ public class Incrementer {
         if (numbers != null && numbers.length > 0) {
             int[] arr = new int[numbers.length];
             for (int i = 0; i < numbers.length; i++) {
-                if ((numbers[i] + i + 1) < 10) {
-                    numbers[i] = numbers[i] + i + 1;
-                } else {
-                     numbers[i] = (numbers[i] + i + 1) % 10;
-                }
+                numbers[i] = (numbers[i] + i + 1) % 10;
+
+                System.out.print(numbers[i]);
             }
+            System.out.println();
             return numbers;
         }
         return new int[]{}; // replace with your code ..
