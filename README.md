@@ -141,6 +141,7 @@
 | Largest Elements | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256) | [Link](./src/main/java/kyu7/LargestElements.java)            |
 | Regexp Basics - is it a letter? | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b) | [Link](./src/main/java/kyu7/RegexpBasicIsItAletter.java)            |
 | Regexp Basics - is it a vowel? | [Link](https://www.codewars.com/kata/567bed99ee3451292c000025) | [Link](./src/main/java/kyu7/RegexpBasicIsItAvowel.java)            |
+| shorter concat [reverse longer] | [Link](https://www.codewars.com/kata/54557d61126a00423b000a45) | [Link](./src/main/java/kyu7/ShorterConcatReverseLonger.java)            |
 | Shortest Word | [Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | [Link](./src/main/java/kyu7/ShortestWord.java)            |
 | Simple Fun #176: Reverse Letter | [Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) | [Link](./src/main/java/kyu7/SimpleFun176ReverseLetter.java)            |
 | Simple string characters | [Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058) | [Link](./src/main/java/kyu7/SimpleStringCharacters.java)            |
