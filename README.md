@@ -130,7 +130,7 @@
 | Count consonants                             | [Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106)            | [Link](./src/main/java/kyu7/CountConsonants.java)                      |
 | Covfefe                                      | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a)            | [Link](./src/main/java/kyu7/Covfefe.java)                              |
 | Debug Sum of Digits of a Number              | [Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)            | [Link](./src/main/java/kyu7/DebugSumOfDigitsOfANumber.java)            |
-| Descending Order                             | [Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)            | [Link](./src/main/java/kyu7/DescendingOrder.java)            |
+| Descending Order                             | [Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)            | [Link](./src/main/java/kyu7/DescendingOrder.java)                      |
 | Digit*Digit                                  | [Link](https://www.codewars.com/kata/546e2562b03326a88e000020)            | [Link](./src/main/java/kyu7/DigitDigit.java)                           |
 | Disemvowel Trolls                            | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e)            | [Link](./src/main/java/kyu7/DisemvowelTrolls.java)                     |
 | Find Count of Most Frequent Item in an Array | [Link](https://www.codewars.com/kata/56582133c932d8239900002e)            | [Link](./src/main/java/kyu7/FindCountOfMostFrequentItemInAnArray.java) |
@@ -142,6 +142,7 @@
 | Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/main/java/kyu7/JadenCasingStrings.java)                   |
 | Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/main/java/kyu7/LargestElements.java)                      |
 | Nth Smallest Element (Array Series #4)       | [Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc)            | [Link](./src/main/java/kyu7/NthSmallestElementArraySeries4.java)       |
+| Ordered Count of Characters                  | [Link](https://www.codewars.com/kata/57a6633153ba33189e000074)            | [Link](./src/main/java/kyu7/OrderedCountOfCharacters.java)             |
 | Regexp Basics - is it a letter?              | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b)            | [Link](./src/main/java/kyu7/RegexpBasicIsItAletter.java)               |
 | Regexp Basics - is it a vowel?               | [Link](https://www.codewars.com/kata/567bed99ee3451292c000025)            | [Link](./src/main/java/kyu7/RegexpBasicIsItAvowel.java)                |
 | shorter concat [reverse longer]              | [Link](https://www.codewars.com/kata/54557d61126a00423b000a45)            | [Link](./src/main/java/kyu7/ShorterConcatReverseLonger.java)           |
