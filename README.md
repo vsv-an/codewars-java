@@ -67,6 +67,7 @@
 | If you can't sleep, just count sheep!!                     | [Link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [Link](./src/main/java/kyu8/IfYouCantSleepJustCountSheep.java)                        |
 | Invert values                                              | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](./src/main/java/kyu8/InvertValues.java)                                        |
 | Is it even?                                                | [Link](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) | [Link](./src/main/java/kyu8/IsItEven.java)                                            |
+| Is it a number?                              | [Link](https://www.codewars.com/kata/57126304cdbf63c6770012bd)            | [Link](./src/main/java/kyu8/IsItANumber.java)                                         |
 | Jenny's secret message                                     | [Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390) | [Link](./src/main/java/kyu8/JennysSecretMessage.java)                                 |
 | Keep Hydrated!                                             | [Link](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [Link](./src/main/java/kyu8/KeepHydrated.java)                                        |
 | Keep up the hoop                                           | [Link](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [Link](./src/main/java/kyu8/KeepUpTheHoop.java)                                       |
@@ -150,7 +151,7 @@
 | Simple Fun #176: Reverse Letter              | [Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)            | [Link](./src/main/java/kyu7/SimpleFun176ReverseLetter.java)            |
 | Simple string characters                     | [Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058)            | [Link](./src/main/java/kyu7/SimpleStringCharacters.java)               |
 | String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java)                       |
-| Sum of Cubes | [Link](https://www.codewars.com/kata/59a8570b570190d313000037)            | [Link](./src/main/java/kyu7/SumOfCubes.java)  |
+| Sum of Cubes                                 | [Link](https://www.codewars.com/kata/59a8570b570190d313000037)            | [Link](./src/main/java/kyu7/SumOfCubes.java)                           |
 | The First Non Repeated Character In A String | [Link](https://www.codewars.com/kata/570f6436b29c708a32000826)            | [Link](./src/main/java/kyu7/TheFirstNonRepeatCharacterInAString.java)  |
 | The 'spiraling' box                          | [Link](https://www.codewars.com/kata/63b84f54693cb10065687ae5)            | [Link](./src/main/java/kyu7/TheSpiralingBox.java)                      |
 | Vowel Count                                  | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3)            | [Link](./src/main/java/kyu7/VowelCount.java)                           |
