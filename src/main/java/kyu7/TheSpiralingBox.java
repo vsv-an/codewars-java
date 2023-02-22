@@ -44,6 +44,12 @@ create_box(10, 9) should return
 public class TheSpiralingBox {
     public static int[][] createBox(int width, int length) {
         // Put your code here.
-        return new int[length][width];
+        int[][] box = new int[length][width];
+        for (int i = 0; i < length; i++) {
+            for (int j = 0; j < width; j++) {
+                box[i][j] = 1 + Math.min(Math.min(i, length - i - 1), Math.min(j, width - j - 1));
+            }
+        }
+        return box;
     }
 }
