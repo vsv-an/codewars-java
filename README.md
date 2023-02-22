@@ -3,7 +3,7 @@
 ## Katas
 
 
-### | [8 kyu](#8-kyu) | [7 kyu](#7-kyu) |
+### | [8 kyu](#8-kyu) | [7 kyu](#7-kyu) | [6 kyu](#6-kyu) |
 
 ### 8 kyu
 
@@ -154,3 +154,8 @@
 | Vowel Count                                  | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3)            | [Link](./src/main/java/kyu7/VowelCount.java)                           |
 | You're a square!                             | [Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)            | [Link](./src/main/java/kyu7/YoureASquare.java)                         |
 
+### 6 kyu
+
+| Name                                         | Link to Codewars                                                          | Link to solution                                      |
+|----------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------|
+| Multiplication table            | [Link](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)            | [Link](./src/main/java/kyu6/MultiplicationTable.java) |
