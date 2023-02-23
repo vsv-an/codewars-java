@@ -61,6 +61,7 @@
 | Grasshopper - Terminal game move function                  | [Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | [Link](./src/main/java/kyu8/GrasshopperTerminalGameMoveFunction.java)                 |
 | Gravity Flip                                               | [Link](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | [Link](./src/main/java/kyu8/GravityFlip.java)                                         |
 | Hex to Decimal                                             | [Link](https://www.codewars.com/kata/57a4d500e298a7952100035d) | [Link](./src/main/java/kyu8/HexToDecimal.java)                                        |
+| Holiday VI - Shark Pontoon                                  | [Link](https://www.codewars.com/kata/57e921d8b36340f1fd000059) | [Link](./src/main/java/kyu8/HolidayVISharkPontoon.java)                                 |
 | Holiday VIII - Duty Free                                   | [Link](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5) | [Link](./src/main/java/kyu8/HolidayVIIIDutyFree.java)                                 |
 | How good are you really?                                   | [Link](https://www.codewars.com/kata/5601409514fc93442500010b) | [Link](./src/main/java/kyu8/HowGoodAreYouReally.java)                                 |
 | I love you, a little , a lot, passionately ... not at all  | [Link](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296) | [Link](./src/main/java/kyu8/IloveYouAlittleAlotPassionatelyNotAtAll.java)             |
