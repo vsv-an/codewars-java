@@ -127,6 +127,7 @@
 
 | Name                                         | Link to Codewars                                                          | Link to solution                                                       |
 |----------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Basic Calculator            | [Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f)            | [Link](./src/main/java/kyu7/BasicCalculator.java)                      |
 | Beginner Series #3 Sum of Numbers            | [Link](https://www.codewars.com/kata/55f2b110f61eb01779000053)            | [Link](./src/main/java/kyu7/BeginnerSeries3SumOfNumbers.java)          |
 | Changing letters                             | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294)            | [Link](./src/main/java/kyu7/ChangingLetters.java)                      |
 | Count consonants                             | [Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106)            | [Link](./src/main/java/kyu7/CountConsonants.java)                      |
@@ -143,6 +144,7 @@
 | Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)            | [Link](./src/main/java/kyu7/Isograms.java)                             |
 | Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/main/java/kyu7/JadenCasingStrings.java)                   |
 | Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/main/java/kyu7/LargestElements.java)                      |
+| lucky number                             | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/main/java/kyu7/LuckyNumber.java)                          |
 | Nth Smallest Element (Array Series #4)       | [Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc)            | [Link](./src/main/java/kyu7/NthSmallestElementArraySeries4.java)       |
 | Ordered Count of Characters                  | [Link](https://www.codewars.com/kata/57a6633153ba33189e000074)            | [Link](./src/main/java/kyu7/OrderedCountOfCharacters.java)             |
 | Regexp Basics - is it a letter?              | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b)            | [Link](./src/main/java/kyu7/RegexpBasicIsItAletter.java)               |
