@@ -127,8 +127,9 @@
 
 | Name                                         | Link to Codewars                                                          | Link to solution                                                       |
 |----------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Basic Calculator            | [Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f)            | [Link](./src/main/java/kyu7/BasicCalculator.java)                      |
+| Basic Calculator                             | [Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f)            | [Link](./src/main/java/kyu7/BasicCalculator.java)                      |
 | Beginner Series #3 Sum of Numbers            | [Link](https://www.codewars.com/kata/55f2b110f61eb01779000053)            | [Link](./src/main/java/kyu7/BeginnerSeries3SumOfNumbers.java)          |
+| Ch4113ng3                                    | [Link](https://www.codewars.com/kata/59e9f404fc3c49ab24000112)            | [Link](./src/main/java/kyu7/Ch4113ng3.java)                            |
 | Changing letters                             | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294)            | [Link](./src/main/java/kyu7/ChangingLetters.java)                      |
 | Count consonants                             | [Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106)            | [Link](./src/main/java/kyu7/CountConsonants.java)                      |
 | Covfefe                                      | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a)            | [Link](./src/main/java/kyu7/Covfefe.java)                              |
@@ -136,7 +137,7 @@
 | Descending Order                             | [Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)            | [Link](./src/main/java/kyu7/DescendingOrder.java)                      |
 | Digit*Digit                                  | [Link](https://www.codewars.com/kata/546e2562b03326a88e000020)            | [Link](./src/main/java/kyu7/DigitDigit.java)                           |
 | Disemvowel Trolls                            | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e)            | [Link](./src/main/java/kyu7/DisemvowelTrolls.java)                     |
-| Exes and Ohs                            | [Link](https://www.codewars.com/kata/55908aad6620c066bc00002a)            | [Link](./src/main/java/kyu7/ExesAndOhs.java)                     |
+| Exes and Ohs                                 | [Link](https://www.codewars.com/kata/55908aad6620c066bc00002a)            | [Link](./src/main/java/kyu7/ExesAndOhs.java)                           |
 | Find Count of Most Frequent Item in an Array | [Link](https://www.codewars.com/kata/56582133c932d8239900002e)            | [Link](./src/main/java/kyu7/FindCountOfMostFrequentItemInAnArray.java) |
 | Find the stray number                        | [Link](https://www.codewars.com/kata/57f609022f4d534f05000024)            | [Link](./src/main/java/kyu7/FindTheStrayNumber.java)                   |
 | Highest and Lowest                           | [Link](https://www.codewars.com/kata/554b4ac871d6813a03000035)            | [Link](./src/main/java/kyu7/HighestAndLowest.java)                     |
@@ -145,7 +146,7 @@
 | Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)            | [Link](./src/main/java/kyu7/Isograms.java)                             |
 | Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/main/java/kyu7/JadenCasingStrings.java)                   |
 | Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/main/java/kyu7/LargestElements.java)                      |
-| lucky number                             | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/main/java/kyu7/LuckyNumber.java)                          |
+| lucky number                                 | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/main/java/kyu7/LuckyNumber.java)                          |
 | Nth Smallest Element (Array Series #4)       | [Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc)            | [Link](./src/main/java/kyu7/NthSmallestElementArraySeries4.java)       |
 | Ordered Count of Characters                  | [Link](https://www.codewars.com/kata/57a6633153ba33189e000074)            | [Link](./src/main/java/kyu7/OrderedCountOfCharacters.java)             |
 | Regexp Basics - is it a letter?              | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b)            | [Link](./src/main/java/kyu7/RegexpBasicIsItAletter.java)               |
@@ -163,9 +164,9 @@
 
 ### 6 kyu
 
-| Name                                         | Link to Codewars                                                          | Link to solution                                      |
-|----------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------|
-| Break camelCase            | [Link](https://www.codewars.com/kata/5208f99aee097e6552000148)            | [Link](./src/main/java/kyu6/BreakCamelCase.java)      |
-| CamelCase Method          | [Link](https://www.codewars.com/kata/587731fda577b3d1b0001196)            | [Link](./src/main/java/kyu6/CamelCaseMethod.java)      |
-| CamelCase to underscore         | [Link](https://www.codewars.com/kata/5b1956a7803388baae00003a)            | [Link](./src/main/java/kyu6/CamelCaseToUnderscore.java)      |
-| Multiplication table            | [Link](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)            | [Link](./src/main/java/kyu6/MultiplicationTable.java) |
+| Name                    | Link to Codewars                                               | Link to solution                                        |
+|-------------------------|----------------------------------------------------------------|---------------------------------------------------------|
+| Break camelCase         | [Link](https://www.codewars.com/kata/5208f99aee097e6552000148) | [Link](./src/main/java/kyu6/BreakCamelCase.java)        |
+| CamelCase Method        | [Link](https://www.codewars.com/kata/587731fda577b3d1b0001196) | [Link](./src/main/java/kyu6/CamelCaseMethod.java)       |
+| CamelCase to underscore | [Link](https://www.codewars.com/kata/5b1956a7803388baae00003a) | [Link](./src/main/java/kyu6/CamelCaseToUnderscore.java) |
+| Multiplication table    | [Link](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) | [Link](./src/main/java/kyu6/MultiplicationTable.java)   |
