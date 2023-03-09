@@ -170,3 +170,4 @@
 | CamelCase Method        | [Link](https://www.codewars.com/kata/587731fda577b3d1b0001196) | [Link](./src/main/java/kyu6/CamelCaseMethod.java)       |
 | CamelCase to underscore | [Link](https://www.codewars.com/kata/5b1956a7803388baae00003a) | [Link](./src/main/java/kyu6/CamelCaseToUnderscore.java) |
 | Multiplication table    | [Link](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) | [Link](./src/main/java/kyu6/MultiplicationTable.java)   |
+| Who likes it?    | [Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [Link](./src/main/java/kyu6/WhoLikesIt.java)   |
