@@ -129,6 +129,7 @@
 |----------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Basic Calculator                             | [Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f)            | [Link](./src/main/java/kyu7/BasicCalculator.java)                      |
 | Beginner Series #3 Sum of Numbers            | [Link](https://www.codewars.com/kata/55f2b110f61eb01779000053)            | [Link](./src/main/java/kyu7/BeginnerSeries3SumOfNumbers.java)          |
+| Building blocks                              | [Link](https://www.codewars.com/kata/55b75fcf67e558d3750000a3)            | [Link](./src/main/java/kyu7/BuildingBlocks.java)                       |
 | Ch4113ng3                                    | [Link](https://www.codewars.com/kata/59e9f404fc3c49ab24000112)            | [Link](./src/main/java/kyu7/Ch4113ng3.java)                            |
 | Changing letters                             | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294)            | [Link](./src/main/java/kyu7/ChangingLetters.java)                      |
 | Count consonants                             | [Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106)            | [Link](./src/main/java/kyu7/CountConsonants.java)                      |
@@ -160,6 +161,7 @@
 | Sum of Cubes                                 | [Link](https://www.codewars.com/kata/59a8570b570190d313000037)            | [Link](./src/main/java/kyu7/SumOfCubes.java)                           |
 | The First Non Repeated Character In A String | [Link](https://www.codewars.com/kata/570f6436b29c708a32000826)            | [Link](./src/main/java/kyu7/TheFirstNonRepeatCharacterInAString.java)  |
 | The 'spiraling' box                          | [Link](https://www.codewars.com/kata/63b84f54693cb10065687ae5)            | [Link](./src/main/java/kyu7/TheSpiralingBox.java)                      |
+| Two fighters, one winner.                    | [Link](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b)            | [Link](./src/main/java/kyu7/TwoFightersOneWinner.java)                 |
 | Vowel Count                                  | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3)            | [Link](./src/main/java/kyu7/VowelCount.java)                           |
 | You're a square!                             | [Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)            | [Link](./src/main/java/kyu7/YoureASquare.java)                         |
 
