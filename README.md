@@ -149,12 +149,14 @@
 | Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/main/java/kyu7/JadenCasingStrings.java)                   |
 | Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/main/java/kyu7/LargestElements.java)                      |
 | lucky number                                 | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/main/java/kyu7/LuckyNumber.java)                          |
+| Make a function that does arithmetic!        | [Link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)            | [Link](./src/main/java/kyu7/MakeAfunctionThatDoesArithmetic.java)      |
 | Nth Smallest Element (Array Series #4)       | [Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc)            | [Link](./src/main/java/kyu7/NthSmallestElementArraySeries4.java)       |
 | Ordered Count of Characters                  | [Link](https://www.codewars.com/kata/57a6633153ba33189e000074)            | [Link](./src/main/java/kyu7/OrderedCountOfCharacters.java)             |
 | Regexp Basics - is it a letter?              | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b)            | [Link](./src/main/java/kyu7/RegexpBasicIsItAletter.java)               |
 | Regexp Basics - is it a vowel?               | [Link](https://www.codewars.com/kata/567bed99ee3451292c000025)            | [Link](./src/main/java/kyu7/RegexpBasicIsItAvowel.java)                |
 | shorter concat [reverse longer]              | [Link](https://www.codewars.com/kata/54557d61126a00423b000a45)            | [Link](./src/main/java/kyu7/ShorterConcatReverseLonger.java)           |
 | Shortest Word                                | [Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)            | [Link](./src/main/java/kyu7/ShortestWord.java)                         |
+| Simple Fun #152: Invite More Women?          | [Link](https://www.codewars.com/kata/58acfe4ae0201e1708000075)            | [Link](./src/main/java/kyu7/SimpleFun152InviteMoreWomen.java)          |
 | Simple Fun #176: Reverse Letter              | [Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)            | [Link](./src/main/java/kyu7/SimpleFun176ReverseLetter.java)            |
 | Simple string characters                     | [Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058)            | [Link](./src/main/java/kyu7/SimpleStringCharacters.java)               |
 | String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java)                       |
