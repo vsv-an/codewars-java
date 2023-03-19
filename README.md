@@ -151,6 +151,7 @@
 | lucky number                                 | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/main/java/kyu7/LuckyNumber.java)                          |
 | Make a function that does arithmetic!        | [Link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)            | [Link](./src/main/java/kyu7/MakeAfunctionThatDoesArithmetic.java)      |
 | Nth Smallest Element (Array Series #4)       | [Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc)            | [Link](./src/main/java/kyu7/NthSmallestElementArraySeries4.java)       |
+| Number of People in the Bus                  | [Link](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)            | [Link](./src/main/java/kyu7/NumberOfPeopleInTheBus.java)               |
 | Ordered Count of Characters                  | [Link](https://www.codewars.com/kata/57a6633153ba33189e000074)            | [Link](./src/main/java/kyu7/OrderedCountOfCharacters.java)             |
 | Regexp Basics - is it a letter?              | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b)            | [Link](./src/main/java/kyu7/RegexpBasicIsItAletter.java)               |
 | Regexp Basics - is it a vowel?               | [Link](https://www.codewars.com/kata/567bed99ee3451292c000025)            | [Link](./src/main/java/kyu7/RegexpBasicIsItAvowel.java)                |
