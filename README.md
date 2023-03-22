@@ -163,6 +163,7 @@
 | String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java)                       |
 | Sum of Cubes                                 | [Link](https://www.codewars.com/kata/59a8570b570190d313000037)            | [Link](./src/main/java/kyu7/SumOfCubes.java)                           |
 | The First Non Repeated Character In A String | [Link](https://www.codewars.com/kata/570f6436b29c708a32000826)            | [Link](./src/main/java/kyu7/TheFirstNonRepeatCharacterInAString.java)  |
+| The highest profit wins!                     | [Link](https://www.codewars.com/kata/559590633066759614000063)            | [Link](./src/main/java/kyu7/TheHighestProfitWins.java)                 |
 | The 'spiraling' box                          | [Link](https://www.codewars.com/kata/63b84f54693cb10065687ae5)            | [Link](./src/main/java/kyu7/TheSpiralingBox.java)                      |
 | Two fighters, one winner.                    | [Link](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b)            | [Link](./src/main/java/kyu7/TwoFightersOneWinner.java)                 |
 | Vowel Count                                  | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3)            | [Link](./src/main/java/kyu7/VowelCount.java)                           |
