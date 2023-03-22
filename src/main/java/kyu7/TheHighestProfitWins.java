@@ -21,20 +21,25 @@ All arrays or lists will always have at least one element, so you don't need to 
 
  */
 
+import java.util.Arrays;
+
 public class TheHighestProfitWins {
     public static int[] minMax(int[] arr) {
         // Your awesome code here
-        int min = arr[0];
-        int max = arr[0];
-        for (int x : arr) {
-            if (min > x) {
-                min = x;
-            }
-            if (max < x) {
-                max = x;
-            }
-        }
-        int[] arr1 = new int[]{min, max};
-        return arr1;
+        Arrays.sort(arr);
+        return new int[]{arr[0], arr[arr.length - 1]};
+
+//        int min = arr[0];
+//        int max = arr[0];
+//        for (int x : arr) {
+//            if (min > x) {
+//                min = x;
+//            }
+//            if (max < x) {
+//                max = x;
+//            }
+//        }
+//        int[] arr1 = new int[]{min, max};
+//        return arr1;
     }
 }
