@@ -181,4 +181,5 @@
 | Find the odd int             | [Link](https://www.codewars.com/kata/54da5a58ea159efa38000836) | [Link](./src/main/java/kyu6/FindTheOddInt.java)            |
 | Multiples of 3 or 5          | [Link](https://www.codewars.com/kata/514b92a657cdc65150000006) | [Link](./src/main/java/kyu6/MultiplesOf3or5.java)          |
 | Multiplication table         | [Link](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) | [Link](./src/main/java/kyu6/MultiplicationTable.java)      |
+| Simple prime streaming       | [Link](https://www.codewars.com/kata/5a908da30025e995880000e3) | [Link](./src/main/java/kyu6/SimplePrimeStreaming.java)     |
 | Who likes it?                | [Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [Link](./src/main/java/kyu6/WhoLikesIt.java)               |
