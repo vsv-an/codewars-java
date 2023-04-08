@@ -125,50 +125,51 @@
 
 ### 7 kyu
 
-| Name                                         | Link to Codewars                                                          | Link to solution                                                       |
-|----------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Basic Calculator                             | [Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f)            | [Link](./src/main/java/kyu7/BasicCalculator.java)                      |
-| Beginner Series #3 Sum of Numbers            | [Link](https://www.codewars.com/kata/55f2b110f61eb01779000053)            | [Link](./src/main/java/kyu7/BeginnerSeries3SumOfNumbers.java)          |
-| Building blocks                              | [Link](https://www.codewars.com/kata/55b75fcf67e558d3750000a3)            | [Link](./src/main/java/kyu7/BuildingBlocks.java)                       |
-| Ch4113ng3                                    | [Link](https://www.codewars.com/kata/59e9f404fc3c49ab24000112)            | [Link](./src/main/java/kyu7/Ch4113ng3.java)                            |
-| Changing letters                             | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294)            | [Link](./src/main/java/kyu7/ChangingLetters.java)                      |
-| Count consonants                             | [Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106)            | [Link](./src/main/java/kyu7/CountConsonants.java)                      |
-| Covfefe                                      | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a)            | [Link](./src/main/java/kyu7/Covfefe.java)                              |
-| Debug Sum of Digits of a Number              | [Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)            | [Link](./src/main/java/kyu7/DebugSumOfDigitsOfANumber.java)            |
-| Descending Order                             | [Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)            | [Link](./src/main/java/kyu7/DescendingOrder.java)                      |
-| Digit*Digit                                  | [Link](https://www.codewars.com/kata/546e2562b03326a88e000020)            | [Link](./src/main/java/kyu7/DigitDigit.java)                           |
-| Disemvowel Trolls                            | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e)            | [Link](./src/main/java/kyu7/DisemvowelTrolls.java)                     |
-| Don't give me five!                          | [Link](https://www.codewars.com/kata/5813d19765d81c592200001a)            | [Link](./src/main/java/kyu7/DontGiveMeFive.java)                       |
-| Exes and Ohs                                 | [Link](https://www.codewars.com/kata/55908aad6620c066bc00002a)            | [Link](./src/main/java/kyu7/ExesAndOhs.java)                           |
-| Find Count of Most Frequent Item in an Array | [Link](https://www.codewars.com/kata/56582133c932d8239900002e)            | [Link](./src/main/java/kyu7/FindCountOfMostFrequentItemInAnArray.java) |
-| Find the stray number                        | [Link](https://www.codewars.com/kata/57f609022f4d534f05000024)            | [Link](./src/main/java/kyu7/FindTheStrayNumber.java)                   |
-| Heron's formula                              | [Link](https://www.codewars.com/kata/57aa218e72292d98d500240f)            | [Link](./src/main/java/kyu7/HeronsFormula.java)                        |
-| Highest and Lowest                           | [Link](https://www.codewars.com/kata/554b4ac871d6813a03000035)            | [Link](./src/main/java/kyu7/HighestAndLowest.java)                     |
-| How many arguments                           | [Link](https://www.codewars.com/kata/5c44b0b200ce187106452139)            | [Link](./src/main/java/kyu7/HowManyArguments.java)                     |
-| Incrementer                                  | [Link](https://www.codewars.com/kata/590e03aef55cab099a0002e8)            | [Link](./src/main/java/kyu7/Incrementer.java)                          |
-| Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)            | [Link](./src/main/java/kyu7/Isograms.java)                             |
-| Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/main/java/kyu7/JadenCasingStrings.java)                   |
-| Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/main/java/kyu7/LargestElements.java)                      |
-| lucky number                                 | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/main/java/kyu7/LuckyNumber.java)                          |
-| Make a function that does arithmetic!        | [Link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)            | [Link](./src/main/java/kyu7/MakeAfunctionThatDoesArithmetic.java)      |
-| Nth Smallest Element (Array Series #4)       | [Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc)            | [Link](./src/main/java/kyu7/NthSmallestElementArraySeries4.java)       |
-| Number of People in the Bus                  | [Link](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)            | [Link](./src/main/java/kyu7/NumberOfPeopleInTheBus.java)               |
-| Ordered Count of Characters                  | [Link](https://www.codewars.com/kata/57a6633153ba33189e000074)            | [Link](./src/main/java/kyu7/OrderedCountOfCharacters.java)             |
-| Regexp Basics - is it a letter?              | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b)            | [Link](./src/main/java/kyu7/RegexpBasicIsItAletter.java)               |
-| Regexp Basics - is it a vowel?               | [Link](https://www.codewars.com/kata/567bed99ee3451292c000025)            | [Link](./src/main/java/kyu7/RegexpBasicIsItAvowel.java)                |
-| shorter concat [reverse longer]              | [Link](https://www.codewars.com/kata/54557d61126a00423b000a45)            | [Link](./src/main/java/kyu7/ShorterConcatReverseLonger.java)           |
-| Shortest Word                                | [Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)            | [Link](./src/main/java/kyu7/ShortestWord.java)                         |
-| Simple Fun #152: Invite More Women?          | [Link](https://www.codewars.com/kata/58acfe4ae0201e1708000075)            | [Link](./src/main/java/kyu7/SimpleFun152InviteMoreWomen.java)          |
-| Simple Fun #176: Reverse Letter              | [Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)            | [Link](./src/main/java/kyu7/SimpleFun176ReverseLetter.java)            |
-| Simple string characters                     | [Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058)            | [Link](./src/main/java/kyu7/SimpleStringCharacters.java)               |
-| String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/main/java/kyu7/StringEndsWith.java)                       |
-| Sum of Cubes                                 | [Link](https://www.codewars.com/kata/59a8570b570190d313000037)            | [Link](./src/main/java/kyu7/SumOfCubes.java)                           |
-| The First Non Repeated Character In A String | [Link](https://www.codewars.com/kata/570f6436b29c708a32000826)            | [Link](./src/main/java/kyu7/TheFirstNonRepeatCharacterInAString.java)  |
-| The highest profit wins!                     | [Link](https://www.codewars.com/kata/559590633066759614000063)            | [Link](./src/main/java/kyu7/TheHighestProfitWins.java)                 |
-| The 'spiraling' box                          | [Link](https://www.codewars.com/kata/63b84f54693cb10065687ae5)            | [Link](./src/main/java/kyu7/TheSpiralingBox.java)                      |
-| Two fighters, one winner.                    | [Link](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b)            | [Link](./src/main/java/kyu7/TwoFightersOneWinner.java)                 |
-| Vowel Count                                  | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3)            | [Link](./src/main/java/kyu7/VowelCount.java)                           |
-| You're a square!                             | [Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)            | [Link](./src/main/java/kyu7/YoureASquare.java)                         |
+| Name                                         | Link to Codewars                                               | Link to solution                                                       |
+|----------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|
+| Basic Calculator                             | [Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f) | [Link](./src/main/java/kyu7/BasicCalculator.java)                      |
+| Beginner Series #3 Sum of Numbers            | [Link](https://www.codewars.com/kata/55f2b110f61eb01779000053) | [Link](./src/main/java/kyu7/BeginnerSeries3SumOfNumbers.java)          |
+| Building blocks                              | [Link](https://www.codewars.com/kata/55b75fcf67e558d3750000a3) | [Link](./src/main/java/kyu7/BuildingBlocks.java)                       |
+| Ch4113ng3                                    | [Link](https://www.codewars.com/kata/59e9f404fc3c49ab24000112) | [Link](./src/main/java/kyu7/Ch4113ng3.java)                            |
+| Changing letters                             | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294) | [Link](./src/main/java/kyu7/ChangingLetters.java)                      |
+| Count consonants                             | [Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106) | [Link](./src/main/java/kyu7/CountConsonants.java)                      |
+| Covfefe                                      | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a) | [Link](./src/main/java/kyu7/Covfefe.java)                              |
+| Debug Sum of Digits of a Number              | [Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) | [Link](./src/main/java/kyu7/DebugSumOfDigitsOfANumber.java)            |
+| Descending Order                             | [Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [Link](./src/main/java/kyu7/DescendingOrder.java)                      |
+| Digit*Digit                                  | [Link](https://www.codewars.com/kata/546e2562b03326a88e000020) | [Link](./src/main/java/kyu7/DigitDigit.java)                           |
+| Disemvowel Trolls                            | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e) | [Link](./src/main/java/kyu7/DisemvowelTrolls.java)                     |
+| Don't give me five!                          | [Link](https://www.codewars.com/kata/5813d19765d81c592200001a) | [Link](./src/main/java/kyu7/DontGiveMeFive.java)                       |
+| Exes and Ohs                                 | [Link](https://www.codewars.com/kata/55908aad6620c066bc00002a) | [Link](./src/main/java/kyu7/ExesAndOhs.java)                           |
+| Find Count of Most Frequent Item in an Array | [Link](https://www.codewars.com/kata/56582133c932d8239900002e) | [Link](./src/main/java/kyu7/FindCountOfMostFrequentItemInAnArray.java) |
+| Find the stray number                        | [Link](https://www.codewars.com/kata/57f609022f4d534f05000024) | [Link](./src/main/java/kyu7/FindTheStrayNumber.java)                   |
+| Heron's formula                              | [Link](https://www.codewars.com/kata/57aa218e72292d98d500240f) | [Link](./src/main/java/kyu7/HeronsFormula.java)                        |
+| Highest and Lowest                           | [Link](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [Link](./src/main/java/kyu7/HighestAndLowest.java)                     |
+| How many arguments                           | [Link](https://www.codewars.com/kata/5c44b0b200ce187106452139) | [Link](./src/main/java/kyu7/HowManyArguments.java)                     |
+| Incrementer                                  | [Link](https://www.codewars.com/kata/590e03aef55cab099a0002e8) | [Link](./src/main/java/kyu7/Incrementer.java)                          |
+| Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Link](./src/main/java/kyu7/Isograms.java)                             |
+| Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | [Link](./src/main/java/kyu7/JadenCasingStrings.java)                   |
+| Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256) | [Link](./src/main/java/kyu7/LargestElements.java)                      |
+| lucky number                                 | [Link](https://www.codewars.com/kata/55afed09237df73343000042) | [Link](./src/main/java/kyu7/LuckyNumber.java)                          |
+| Make a function that does arithmetic!        | [Link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a) | [Link](./src/main/java/kyu7/MakeAfunctionThatDoesArithmetic.java)      |
+| Nth Smallest Element (Array Series #4)       | [Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc) | [Link](./src/main/java/kyu7/NthSmallestElementArraySeries4.java)       |
+| Number of People in the Bus                  | [Link](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) | [Link](./src/main/java/kyu7/NumberOfPeopleInTheBus.java)               |
+| Ordered Count of Characters                  | [Link](https://www.codewars.com/kata/57a6633153ba33189e000074) | [Link](./src/main/java/kyu7/OrderedCountOfCharacters.java)             |
+| Regexp Basics - is it a letter?              | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b) | [Link](./src/main/java/kyu7/RegexpBasicIsItAletter.java)               |
+| Regexp Basics - is it a vowel?               | [Link](https://www.codewars.com/kata/567bed99ee3451292c000025) | [Link](./src/main/java/kyu7/RegexpBasicIsItAvowel.java)                |
+| shorter concat [reverse longer]              | [Link](https://www.codewars.com/kata/54557d61126a00423b000a45) | [Link](./src/main/java/kyu7/ShorterConcatReverseLonger.java)           |
+| Shortest Word                                | [Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | [Link](./src/main/java/kyu7/ShortestWord.java)                         |
+| Simple Fun #152: Invite More Women?          | [Link](https://www.codewars.com/kata/58acfe4ae0201e1708000075) | [Link](./src/main/java/kyu7/SimpleFun152InviteMoreWomen.java)          |
+| Simple Fun #176: Reverse Letter              | [Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) | [Link](./src/main/java/kyu7/SimpleFun176ReverseLetter.java)            |
+| Simple string characters                     | [Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058) | [Link](./src/main/java/kyu7/SimpleStringCharacters.java)               |
+| Sort the Gift Code                           | [Link](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3) | [Link](./src/main/java/kyu7/SortTheGiftCode.java)                      |
+| String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) | [Link](./src/main/java/kyu7/StringEndsWith.java)                       |
+| Sum of Cubes                                 | [Link](https://www.codewars.com/kata/59a8570b570190d313000037) | [Link](./src/main/java/kyu7/SumOfCubes.java)                           |
+| The First Non Repeated Character In A String | [Link](https://www.codewars.com/kata/570f6436b29c708a32000826) | [Link](./src/main/java/kyu7/TheFirstNonRepeatCharacterInAString.java)  |
+| The highest profit wins!                     | [Link](https://www.codewars.com/kata/559590633066759614000063) | [Link](./src/main/java/kyu7/TheHighestProfitWins.java)                 |
+| The 'spiraling' box                          | [Link](https://www.codewars.com/kata/63b84f54693cb10065687ae5) | [Link](./src/main/java/kyu7/TheSpiralingBox.java)                      |
+| Two fighters, one winner.                    | [Link](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) | [Link](./src/main/java/kyu7/TwoFightersOneWinner.java)                 |
+| Vowel Count                                  | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Link](./src/main/java/kyu7/VowelCount.java)                           |
+| You're a square!                             | [Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | [Link](./src/main/java/kyu7/YoureASquare.java)                         |
 
 ### 6 kyu
 
