@@ -138,6 +138,7 @@
 | Descending Order                             | [Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)            | [Link](./src/main/java/kyu7/DescendingOrder.java)                      |
 | Digit*Digit                                  | [Link](https://www.codewars.com/kata/546e2562b03326a88e000020)            | [Link](./src/main/java/kyu7/DigitDigit.java)                           |
 | Disemvowel Trolls                            | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e)            | [Link](./src/main/java/kyu7/DisemvowelTrolls.java)                     |
+| Don't give me five!                          | [Link](https://www.codewars.com/kata/5813d19765d81c592200001a)            | [Link](./src/main/java/kyu7/DontGiveMeFive.java)                       |
 | Exes and Ohs                                 | [Link](https://www.codewars.com/kata/55908aad6620c066bc00002a)            | [Link](./src/main/java/kyu7/ExesAndOhs.java)                           |
 | Find Count of Most Frequent Item in an Array | [Link](https://www.codewars.com/kata/56582133c932d8239900002e)            | [Link](./src/main/java/kyu7/FindCountOfMostFrequentItemInAnArray.java) |
 | Find the stray number                        | [Link](https://www.codewars.com/kata/57f609022f4d534f05000024)            | [Link](./src/main/java/kyu7/FindTheStrayNumber.java)                   |
