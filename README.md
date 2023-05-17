@@ -142,6 +142,7 @@
 | Exes and Ohs                                 | [Link](https://www.codewars.com/kata/55908aad6620c066bc00002a) | [Link](./src/main/java/kyu7/ExesAndOhs.java)                           |
 | Find Count of Most Frequent Item in an Array | [Link](https://www.codewars.com/kata/56582133c932d8239900002e) | [Link](./src/main/java/kyu7/FindCountOfMostFrequentItemInAnArray.java) |
 | Find the stray number                        | [Link](https://www.codewars.com/kata/57f609022f4d534f05000024) | [Link](./src/main/java/kyu7/FindTheStrayNumber.java)                   |
+| Growth of a Population                       | [Link](https://www.codewars.com/kata/563b662a59afc2b5120000c6) | [Link](./src/main/java/kyu7/GrowthOfaPopulation)                       |
 | Heron's formula                              | [Link](https://www.codewars.com/kata/57aa218e72292d98d500240f) | [Link](./src/main/java/kyu7/HeronsFormula.java)                        |
 | Highest and Lowest                           | [Link](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [Link](./src/main/java/kyu7/HighestAndLowest.java)                     |
 | How many arguments                           | [Link](https://www.codewars.com/kata/5c44b0b200ce187106452139) | [Link](./src/main/java/kyu7/HowManyArguments.java)                     |
